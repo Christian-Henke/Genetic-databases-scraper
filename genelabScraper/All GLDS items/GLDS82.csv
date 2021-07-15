@@ -1,0 +1,17 @@
+hits,1
+input,82
+page_number,1
+total_hits,1
+page_total,1
+success,True
+valid_input_0,82
+studies_GLDS-82_study_files_0_file_name,GLDS-82_sequencing_metagenomics.fastq.gz
+studies_GLDS-82_study_files_0_remote_url,/datamanager/file/Home/genelab-data/GLDS-82/sequencing/GLDS-82_sequencing_metagenomics.fastq.gz
+studies_GLDS-82_study_files_0_file_size,43560907
+studies_GLDS-82_study_files_0_date_created,1506008636996
+studies_GLDS-82_study_files_1_file_name,GLDS-82_metadata_PRJDB4280-ISA.zip
+studies_GLDS-82_study_files_1_remote_url,/datamanager/file/Home/genelab-data/GLDS-82/metadata/GLDS-82_metadata_PRJDB4280-ISA.zip
+studies_GLDS-82_study_files_1_file_size,6091
+studies_GLDS-82_study_files_1_date_created,1506008636996
+studies_GLDS-82_file_count,2
+page_size,25

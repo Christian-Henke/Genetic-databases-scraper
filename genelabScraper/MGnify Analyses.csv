@@ -1,0 +1,1082 @@
+links_first,https://www.ebi.ac.uk/metagenomics/api/v1/analyses?page=1
+links_last,https://www.ebi.ac.uk/metagenomics/api/v1/analyses?page=17230
+links_next,https://www.ebi.ac.uk/metagenomics/api/v1/analyses?page=2
+links_prev,
+data_0_type,analysis-jobs
+data_0_id,MGYA00383253
+data_0_attributes_pipeline-version,5.0
+data_0_attributes_experiment-type,amplicon
+data_0_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_0_attributes_analysis-summary_0_value,55799
+data_0_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_0_attributes_analysis-summary_1_value,55789
+data_0_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_0_attributes_analysis-summary_2_value,55789
+data_0_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_0_attributes_analysis-summary_3_value,55789
+data_0_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_0_attributes_analysis-summary_4_value,0
+data_0_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_0_attributes_analysis-summary_5_value,461
+data_0_attributes_accession,MGYA00383253
+data_0_attributes_analysis-status,completed
+data_0_attributes_complete-time,2020-06-11T10:51:27
+data_0_attributes_instrument-platform,ILLUMINA
+data_0_attributes_instrument-model,Illumina MiSeq
+data_0_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00383253/go-slim
+data_0_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00383253/taxonomy/unite
+data_0_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00383253/taxonomy/itsonedb
+data_0_relationships_run_data_type,runs
+data_0_relationships_run_data_id,ERR2237853
+data_0_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/ERR2237853
+data_0_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00383253/taxonomy/ssu
+data_0_relationships_assembly_data_data,
+data_0_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00383253/go-terms
+data_0_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00383253/genome-properties
+data_0_relationships_study_data_type,studies
+data_0_relationships_study_data_id,MGYS00002115
+data_0_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00002115
+data_0_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00383253/taxonomy/lsu
+data_0_relationships_sample_data_type,samples
+data_0_relationships_sample_data_id,ERS2075820
+data_0_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/ERS2075820
+data_0_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00383253/interpro-identifiers
+data_0_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00383253/downloads
+data_0_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00383253/antismash-gene-clusters
+data_0_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00383253/taxonomy
+data_0_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00383253
+data_1_type,analysis-jobs
+data_1_id,MGYA00429279
+data_1_attributes_pipeline-version,5.0
+data_1_attributes_experiment-type,amplicon
+data_1_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_1_attributes_analysis-summary_0_value,905
+data_1_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_1_attributes_analysis-summary_1_value,889
+data_1_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_1_attributes_analysis-summary_2_value,889
+data_1_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_1_attributes_analysis-summary_3_value,889
+data_1_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_1_attributes_analysis-summary_4_value,0
+data_1_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_1_attributes_analysis-summary_5_value,0
+data_1_attributes_accession,MGYA00429279
+data_1_attributes_analysis-status,completed
+data_1_attributes_complete-time,2020-11-05T20:43:04
+data_1_attributes_instrument-platform,ILLUMINA
+data_1_attributes_instrument-model,Illumina MiSeq
+data_1_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429279/go-slim
+data_1_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429279/taxonomy/unite
+data_1_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429279/taxonomy/itsonedb
+data_1_relationships_run_data_type,runs
+data_1_relationships_run_data_id,SRR6843879
+data_1_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/SRR6843879
+data_1_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429279/taxonomy/ssu
+data_1_relationships_assembly_data_data,
+data_1_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429279/go-terms
+data_1_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429279/genome-properties
+data_1_relationships_study_data_type,studies
+data_1_relationships_study_data_id,MGYS00005251
+data_1_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00005251
+data_1_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429279/taxonomy/lsu
+data_1_relationships_sample_data_type,samples
+data_1_relationships_sample_data_id,SRS3051409
+data_1_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/SRS3051409
+data_1_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429279/interpro-identifiers
+data_1_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429279/downloads
+data_1_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429279/antismash-gene-clusters
+data_1_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429279/taxonomy
+data_1_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429279
+data_2_type,analysis-jobs
+data_2_id,MGYA00429280
+data_2_attributes_pipeline-version,5.0
+data_2_attributes_experiment-type,amplicon
+data_2_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_2_attributes_analysis-summary_0_value,931
+data_2_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_2_attributes_analysis-summary_1_value,899
+data_2_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_2_attributes_analysis-summary_2_value,899
+data_2_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_2_attributes_analysis-summary_3_value,899
+data_2_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_2_attributes_analysis-summary_4_value,1
+data_2_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_2_attributes_analysis-summary_5_value,0
+data_2_attributes_accession,MGYA00429280
+data_2_attributes_analysis-status,completed
+data_2_attributes_complete-time,2020-11-05T20:43:23
+data_2_attributes_instrument-platform,ILLUMINA
+data_2_attributes_instrument-model,Illumina MiSeq
+data_2_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429280/go-slim
+data_2_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429280/taxonomy/unite
+data_2_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429280/taxonomy/itsonedb
+data_2_relationships_run_data_type,runs
+data_2_relationships_run_data_id,SRR6843877
+data_2_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/SRR6843877
+data_2_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429280/taxonomy/ssu
+data_2_relationships_assembly_data_data,
+data_2_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429280/go-terms
+data_2_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429280/genome-properties
+data_2_relationships_study_data_type,studies
+data_2_relationships_study_data_id,MGYS00005251
+data_2_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00005251
+data_2_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429280/taxonomy/lsu
+data_2_relationships_sample_data_type,samples
+data_2_relationships_sample_data_id,SRS3051412
+data_2_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/SRS3051412
+data_2_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429280/interpro-identifiers
+data_2_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429280/downloads
+data_2_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429280/antismash-gene-clusters
+data_2_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429280/taxonomy
+data_2_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429280
+data_3_type,analysis-jobs
+data_3_id,MGYA00429281
+data_3_attributes_pipeline-version,5.0
+data_3_attributes_experiment-type,amplicon
+data_3_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_3_attributes_analysis-summary_0_value,965
+data_3_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_3_attributes_analysis-summary_1_value,939
+data_3_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_3_attributes_analysis-summary_2_value,939
+data_3_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_3_attributes_analysis-summary_3_value,939
+data_3_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_3_attributes_analysis-summary_4_value,5
+data_3_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_3_attributes_analysis-summary_5_value,0
+data_3_attributes_accession,MGYA00429281
+data_3_attributes_analysis-status,completed
+data_3_attributes_complete-time,2020-11-05T20:04:56
+data_3_attributes_instrument-platform,ILLUMINA
+data_3_attributes_instrument-model,Illumina MiSeq
+data_3_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429281/go-slim
+data_3_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429281/taxonomy/unite
+data_3_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429281/taxonomy/itsonedb
+data_3_relationships_run_data_type,runs
+data_3_relationships_run_data_id,SRR6843876
+data_3_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/SRR6843876
+data_3_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429281/taxonomy/ssu
+data_3_relationships_assembly_data_data,
+data_3_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429281/go-terms
+data_3_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429281/genome-properties
+data_3_relationships_study_data_type,studies
+data_3_relationships_study_data_id,MGYS00005251
+data_3_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00005251
+data_3_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429281/taxonomy/lsu
+data_3_relationships_sample_data_type,samples
+data_3_relationships_sample_data_id,SRS3051410
+data_3_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/SRS3051410
+data_3_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429281/interpro-identifiers
+data_3_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429281/downloads
+data_3_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429281/antismash-gene-clusters
+data_3_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429281/taxonomy
+data_3_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429281
+data_4_type,analysis-jobs
+data_4_id,MGYA00429282
+data_4_attributes_pipeline-version,5.0
+data_4_attributes_experiment-type,amplicon
+data_4_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_4_attributes_analysis-summary_0_value,872
+data_4_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_4_attributes_analysis-summary_1_value,837
+data_4_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_4_attributes_analysis-summary_2_value,837
+data_4_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_4_attributes_analysis-summary_3_value,837
+data_4_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_4_attributes_analysis-summary_4_value,4
+data_4_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_4_attributes_analysis-summary_5_value,0
+data_4_attributes_accession,MGYA00429282
+data_4_attributes_analysis-status,completed
+data_4_attributes_complete-time,2020-11-05T21:30:23
+data_4_attributes_instrument-platform,ILLUMINA
+data_4_attributes_instrument-model,Illumina MiSeq
+data_4_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429282/go-slim
+data_4_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429282/taxonomy/unite
+data_4_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429282/taxonomy/itsonedb
+data_4_relationships_run_data_type,runs
+data_4_relationships_run_data_id,SRR6843872
+data_4_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/SRR6843872
+data_4_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429282/taxonomy/ssu
+data_4_relationships_assembly_data_data,
+data_4_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429282/go-terms
+data_4_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429282/genome-properties
+data_4_relationships_study_data_type,studies
+data_4_relationships_study_data_id,MGYS00005251
+data_4_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00005251
+data_4_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429282/taxonomy/lsu
+data_4_relationships_sample_data_type,samples
+data_4_relationships_sample_data_id,SRS3051414
+data_4_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/SRS3051414
+data_4_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429282/interpro-identifiers
+data_4_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429282/downloads
+data_4_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429282/antismash-gene-clusters
+data_4_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429282/taxonomy
+data_4_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429282
+data_5_type,analysis-jobs
+data_5_id,MGYA00429283
+data_5_attributes_pipeline-version,5.0
+data_5_attributes_experiment-type,amplicon
+data_5_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_5_attributes_analysis-summary_0_value,173961
+data_5_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_5_attributes_analysis-summary_1_value,162050
+data_5_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_5_attributes_analysis-summary_2_value,162050
+data_5_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_5_attributes_analysis-summary_3_value,162050
+data_5_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_5_attributes_analysis-summary_4_value,162005
+data_5_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_5_attributes_analysis-summary_5_value,4
+data_5_attributes_accession,MGYA00429283
+data_5_attributes_analysis-status,completed
+data_5_attributes_complete-time,2020-11-15T15:10:44
+data_5_attributes_instrument-platform,ILLUMINA
+data_5_attributes_instrument-model,Illumina HiSeq 2500
+data_5_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429283/go-slim
+data_5_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429283/taxonomy/unite
+data_5_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429283/taxonomy/itsonedb
+data_5_relationships_run_data_type,runs
+data_5_relationships_run_data_id,SRR5586556
+data_5_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/SRR5586556
+data_5_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429283/taxonomy/ssu
+data_5_relationships_assembly_data_data,
+data_5_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429283/go-terms
+data_5_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429283/genome-properties
+data_5_relationships_study_data_type,studies
+data_5_relationships_study_data_id,MGYS00005169
+data_5_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00005169
+data_5_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429283/taxonomy/lsu
+data_5_relationships_sample_data_type,samples
+data_5_relationships_sample_data_id,SRS2217638
+data_5_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/SRS2217638
+data_5_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429283/interpro-identifiers
+data_5_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429283/downloads
+data_5_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429283/antismash-gene-clusters
+data_5_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429283/taxonomy
+data_5_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429283
+data_6_type,analysis-jobs
+data_6_id,MGYA00429284
+data_6_attributes_pipeline-version,5.0
+data_6_attributes_experiment-type,amplicon
+data_6_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_6_attributes_analysis-summary_0_value,307808
+data_6_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_6_attributes_analysis-summary_1_value,285952
+data_6_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_6_attributes_analysis-summary_2_value,285952
+data_6_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_6_attributes_analysis-summary_3_value,285952
+data_6_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_6_attributes_analysis-summary_4_value,285897
+data_6_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_6_attributes_analysis-summary_5_value,19
+data_6_attributes_accession,MGYA00429284
+data_6_attributes_analysis-status,completed
+data_6_attributes_complete-time,2020-11-15T09:20:08
+data_6_attributes_instrument-platform,ILLUMINA
+data_6_attributes_instrument-model,Illumina HiSeq 2500
+data_6_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429284/go-slim
+data_6_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429284/taxonomy/unite
+data_6_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429284/taxonomy/itsonedb
+data_6_relationships_run_data_type,runs
+data_6_relationships_run_data_id,SRR5586551
+data_6_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/SRR5586551
+data_6_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429284/taxonomy/ssu
+data_6_relationships_assembly_data_data,
+data_6_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429284/go-terms
+data_6_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429284/genome-properties
+data_6_relationships_study_data_type,studies
+data_6_relationships_study_data_id,MGYS00005169
+data_6_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00005169
+data_6_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429284/taxonomy/lsu
+data_6_relationships_sample_data_type,samples
+data_6_relationships_sample_data_id,SRS2217644
+data_6_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/SRS2217644
+data_6_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429284/interpro-identifiers
+data_6_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429284/downloads
+data_6_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429284/antismash-gene-clusters
+data_6_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429284/taxonomy
+data_6_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429284
+data_7_type,analysis-jobs
+data_7_id,MGYA00429285
+data_7_attributes_pipeline-version,5.0
+data_7_attributes_experiment-type,amplicon
+data_7_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_7_attributes_analysis-summary_0_value,74600
+data_7_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_7_attributes_analysis-summary_1_value,74581
+data_7_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_7_attributes_analysis-summary_2_value,74581
+data_7_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_7_attributes_analysis-summary_3_value,74581
+data_7_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_7_attributes_analysis-summary_4_value,0
+data_7_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_7_attributes_analysis-summary_5_value,400
+data_7_attributes_accession,MGYA00429285
+data_7_attributes_analysis-status,completed
+data_7_attributes_complete-time,2020-03-11T11:35:39
+data_7_attributes_instrument-platform,ILLUMINA
+data_7_attributes_instrument-model,Illumina MiSeq
+data_7_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429285/go-slim
+data_7_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429285/taxonomy/unite
+data_7_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429285/taxonomy/itsonedb
+data_7_relationships_run_data_type,runs
+data_7_relationships_run_data_id,ERR2237860
+data_7_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/ERR2237860
+data_7_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429285/taxonomy/ssu
+data_7_relationships_assembly_data_data,
+data_7_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429285/go-terms
+data_7_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429285/genome-properties
+data_7_relationships_study_data_type,studies
+data_7_relationships_study_data_id,MGYS00002115
+data_7_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00002115
+data_7_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429285/taxonomy/lsu
+data_7_relationships_sample_data_type,samples
+data_7_relationships_sample_data_id,ERS2075827
+data_7_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/ERS2075827
+data_7_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429285/interpro-identifiers
+data_7_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429285/downloads
+data_7_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429285/antismash-gene-clusters
+data_7_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429285/taxonomy
+data_7_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429285
+data_8_type,analysis-jobs
+data_8_id,MGYA00429286
+data_8_attributes_pipeline-version,5.0
+data_8_attributes_experiment-type,amplicon
+data_8_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_8_attributes_analysis-summary_0_value,74114
+data_8_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_8_attributes_analysis-summary_1_value,74090
+data_8_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_8_attributes_analysis-summary_2_value,74090
+data_8_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_8_attributes_analysis-summary_3_value,74090
+data_8_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_8_attributes_analysis-summary_4_value,0
+data_8_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_8_attributes_analysis-summary_5_value,283
+data_8_attributes_accession,MGYA00429286
+data_8_attributes_analysis-status,completed
+data_8_attributes_complete-time,2020-03-11T11:42:55
+data_8_attributes_instrument-platform,ILLUMINA
+data_8_attributes_instrument-model,Illumina MiSeq
+data_8_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429286/go-slim
+data_8_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429286/taxonomy/unite
+data_8_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429286/taxonomy/itsonedb
+data_8_relationships_run_data_type,runs
+data_8_relationships_run_data_id,ERR2237858
+data_8_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/ERR2237858
+data_8_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429286/taxonomy/ssu
+data_8_relationships_assembly_data_data,
+data_8_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429286/go-terms
+data_8_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429286/genome-properties
+data_8_relationships_study_data_type,studies
+data_8_relationships_study_data_id,MGYS00002115
+data_8_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00002115
+data_8_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429286/taxonomy/lsu
+data_8_relationships_sample_data_type,samples
+data_8_relationships_sample_data_id,ERS2075825
+data_8_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/ERS2075825
+data_8_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429286/interpro-identifiers
+data_8_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429286/downloads
+data_8_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429286/antismash-gene-clusters
+data_8_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429286/taxonomy
+data_8_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429286
+data_9_type,analysis-jobs
+data_9_id,MGYA00429287
+data_9_attributes_pipeline-version,5.0
+data_9_attributes_experiment-type,amplicon
+data_9_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_9_attributes_analysis-summary_0_value,8348
+data_9_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_9_attributes_analysis-summary_1_value,8347
+data_9_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_9_attributes_analysis-summary_2_value,8347
+data_9_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_9_attributes_analysis-summary_3_value,8347
+data_9_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_9_attributes_analysis-summary_4_value,0
+data_9_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_9_attributes_analysis-summary_5_value,70
+data_9_attributes_accession,MGYA00429287
+data_9_attributes_analysis-status,completed
+data_9_attributes_complete-time,2020-03-11T11:29:04
+data_9_attributes_instrument-platform,ILLUMINA
+data_9_attributes_instrument-model,Illumina MiSeq
+data_9_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429287/go-slim
+data_9_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429287/taxonomy/unite
+data_9_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429287/taxonomy/itsonedb
+data_9_relationships_run_data_type,runs
+data_9_relationships_run_data_id,ERR2237856
+data_9_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/ERR2237856
+data_9_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429287/taxonomy/ssu
+data_9_relationships_assembly_data_data,
+data_9_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429287/go-terms
+data_9_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429287/genome-properties
+data_9_relationships_study_data_type,studies
+data_9_relationships_study_data_id,MGYS00002115
+data_9_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00002115
+data_9_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429287/taxonomy/lsu
+data_9_relationships_sample_data_type,samples
+data_9_relationships_sample_data_id,ERS2075823
+data_9_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/ERS2075823
+data_9_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429287/interpro-identifiers
+data_9_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429287/downloads
+data_9_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429287/antismash-gene-clusters
+data_9_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429287/taxonomy
+data_9_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429287
+data_10_type,analysis-jobs
+data_10_id,MGYA00429288
+data_10_attributes_pipeline-version,5.0
+data_10_attributes_experiment-type,amplicon
+data_10_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_10_attributes_analysis-summary_0_value,84803
+data_10_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_10_attributes_analysis-summary_1_value,84788
+data_10_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_10_attributes_analysis-summary_2_value,84788
+data_10_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_10_attributes_analysis-summary_3_value,84788
+data_10_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_10_attributes_analysis-summary_4_value,2
+data_10_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_10_attributes_analysis-summary_5_value,401
+data_10_attributes_accession,MGYA00429288
+data_10_attributes_analysis-status,completed
+data_10_attributes_complete-time,2020-03-11T11:21:45
+data_10_attributes_instrument-platform,ILLUMINA
+data_10_attributes_instrument-model,Illumina MiSeq
+data_10_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429288/go-slim
+data_10_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429288/taxonomy/unite
+data_10_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429288/taxonomy/itsonedb
+data_10_relationships_run_data_type,runs
+data_10_relationships_run_data_id,ERR2237854
+data_10_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/ERR2237854
+data_10_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429288/taxonomy/ssu
+data_10_relationships_assembly_data_data,
+data_10_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429288/go-terms
+data_10_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429288/genome-properties
+data_10_relationships_study_data_type,studies
+data_10_relationships_study_data_id,MGYS00002115
+data_10_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00002115
+data_10_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429288/taxonomy/lsu
+data_10_relationships_sample_data_type,samples
+data_10_relationships_sample_data_id,ERS2075821
+data_10_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/ERS2075821
+data_10_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429288/interpro-identifiers
+data_10_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429288/downloads
+data_10_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429288/antismash-gene-clusters
+data_10_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429288/taxonomy
+data_10_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429288
+data_11_type,analysis-jobs
+data_11_id,MGYA00429312
+data_11_attributes_pipeline-version,5.0
+data_11_attributes_experiment-type,amplicon
+data_11_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_11_attributes_analysis-summary_0_value,35959
+data_11_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_11_attributes_analysis-summary_1_value,31201
+data_11_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_11_attributes_analysis-summary_2_value,31201
+data_11_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_11_attributes_analysis-summary_3_value,31201
+data_11_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_11_attributes_analysis-summary_4_value,31214
+data_11_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_11_attributes_analysis-summary_5_value,0
+data_11_attributes_accession,MGYA00429312
+data_11_attributes_analysis-status,completed
+data_11_attributes_complete-time,2020-03-11T09:24:37
+data_11_attributes_instrument-platform,LS454
+data_11_attributes_instrument-model,454 GS FLX Titanium
+data_11_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429312/go-slim
+data_11_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429312/taxonomy/unite
+data_11_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429312/taxonomy/itsonedb
+data_11_relationships_run_data_type,runs
+data_11_relationships_run_data_id,ERR315852
+data_11_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/ERR315852
+data_11_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429312/taxonomy/ssu
+data_11_relationships_assembly_data_data,
+data_11_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429312/go-terms
+data_11_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429312/genome-properties
+data_11_relationships_study_data_type,studies
+data_11_relationships_study_data_id,MGYS00000492
+data_11_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00000492
+data_11_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429312/taxonomy/lsu
+data_11_relationships_sample_data_type,samples
+data_11_relationships_sample_data_id,ERS477999
+data_11_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/ERS477999
+data_11_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429312/interpro-identifiers
+data_11_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429312/downloads
+data_11_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429312/antismash-gene-clusters
+data_11_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429312/taxonomy
+data_11_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429312
+data_12_type,analysis-jobs
+data_12_id,MGYA00429313
+data_12_attributes_pipeline-version,5.0
+data_12_attributes_experiment-type,amplicon
+data_12_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_12_attributes_analysis-summary_0_value,44989
+data_12_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_12_attributes_analysis-summary_1_value,32627
+data_12_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_12_attributes_analysis-summary_2_value,32627
+data_12_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_12_attributes_analysis-summary_3_value,32627
+data_12_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_12_attributes_analysis-summary_4_value,32426
+data_12_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_12_attributes_analysis-summary_5_value,0
+data_12_attributes_accession,MGYA00429313
+data_12_attributes_analysis-status,completed
+data_12_attributes_complete-time,2020-03-11T14:41:28
+data_12_attributes_instrument-platform,LS454
+data_12_attributes_instrument-model,454 GS FLX Titanium
+data_12_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429313/go-slim
+data_12_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429313/taxonomy/unite
+data_12_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429313/taxonomy/itsonedb
+data_12_relationships_run_data_type,runs
+data_12_relationships_run_data_id,ERR315850
+data_12_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/ERR315850
+data_12_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429313/taxonomy/ssu
+data_12_relationships_assembly_data_data,
+data_12_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429313/go-terms
+data_12_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429313/genome-properties
+data_12_relationships_study_data_type,studies
+data_12_relationships_study_data_id,MGYS00000492
+data_12_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00000492
+data_12_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429313/taxonomy/lsu
+data_12_relationships_sample_data_type,samples
+data_12_relationships_sample_data_id,ERS478017
+data_12_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/ERS478017
+data_12_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429313/interpro-identifiers
+data_12_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429313/downloads
+data_12_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429313/antismash-gene-clusters
+data_12_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429313/taxonomy
+data_12_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429313
+data_13_type,analysis-jobs
+data_13_id,MGYA00429314
+data_13_attributes_pipeline-version,5.0
+data_13_attributes_experiment-type,amplicon
+data_13_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_13_attributes_analysis-summary_0_value,15487
+data_13_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_13_attributes_analysis-summary_1_value,11828
+data_13_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_13_attributes_analysis-summary_2_value,11828
+data_13_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_13_attributes_analysis-summary_3_value,11828
+data_13_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_13_attributes_analysis-summary_4_value,2
+data_13_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_13_attributes_analysis-summary_5_value,0
+data_13_attributes_accession,MGYA00429314
+data_13_attributes_analysis-status,completed
+data_13_attributes_complete-time,2020-08-21T11:24:30
+data_13_attributes_instrument-platform,LS454
+data_13_attributes_instrument-model,454 GS FLX Titanium
+data_13_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429314/go-slim
+data_13_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429314/taxonomy/unite
+data_13_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429314/taxonomy/itsonedb
+data_13_relationships_run_data_type,runs
+data_13_relationships_run_data_id,ERR632202
+data_13_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/ERR632202
+data_13_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429314/taxonomy/ssu
+data_13_relationships_assembly_data_data,
+data_13_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429314/go-terms
+data_13_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429314/genome-properties
+data_13_relationships_study_data_type,studies
+data_13_relationships_study_data_id,MGYS00001811
+data_13_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00001811
+data_13_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429314/taxonomy/lsu
+data_13_relationships_sample_data_type,samples
+data_13_relationships_sample_data_id,ERS492648
+data_13_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/ERS492648
+data_13_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429314/interpro-identifiers
+data_13_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429314/downloads
+data_13_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429314/antismash-gene-clusters
+data_13_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429314/taxonomy
+data_13_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429314
+data_14_type,analysis-jobs
+data_14_id,MGYA00429315
+data_14_attributes_pipeline-version,5.0
+data_14_attributes_experiment-type,amplicon
+data_14_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_14_attributes_analysis-summary_0_value,136377
+data_14_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_14_attributes_analysis-summary_1_value,135647
+data_14_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_14_attributes_analysis-summary_2_value,135647
+data_14_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_14_attributes_analysis-summary_3_value,135647
+data_14_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_14_attributes_analysis-summary_4_value,11
+data_14_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_14_attributes_analysis-summary_5_value,1
+data_14_attributes_accession,MGYA00429315
+data_14_attributes_analysis-status,completed
+data_14_attributes_complete-time,2020-08-21T11:25:02
+data_14_attributes_instrument-platform,ILLUMINA
+data_14_attributes_instrument-model,Illumina MiSeq
+data_14_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429315/go-slim
+data_14_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429315/taxonomy/unite
+data_14_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429315/taxonomy/itsonedb
+data_14_relationships_run_data_type,runs
+data_14_relationships_run_data_id,ERR632201
+data_14_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/ERR632201
+data_14_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429315/taxonomy/ssu
+data_14_relationships_assembly_data_data,
+data_14_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429315/go-terms
+data_14_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429315/genome-properties
+data_14_relationships_study_data_type,studies
+data_14_relationships_study_data_id,MGYS00001811
+data_14_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00001811
+data_14_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429315/taxonomy/lsu
+data_14_relationships_sample_data_type,samples
+data_14_relationships_sample_data_id,ERS492647
+data_14_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/ERS492647
+data_14_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429315/interpro-identifiers
+data_14_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429315/downloads
+data_14_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429315/antismash-gene-clusters
+data_14_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429315/taxonomy
+data_14_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429315
+data_15_type,analysis-jobs
+data_15_id,MGYA00429316
+data_15_attributes_pipeline-version,5.0
+data_15_attributes_experiment-type,amplicon
+data_15_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_15_attributes_analysis-summary_0_value,65644
+data_15_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_15_attributes_analysis-summary_1_value,56368
+data_15_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_15_attributes_analysis-summary_2_value,56368
+data_15_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_15_attributes_analysis-summary_3_value,56368
+data_15_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_15_attributes_analysis-summary_4_value,12
+data_15_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_15_attributes_analysis-summary_5_value,0
+data_15_attributes_accession,MGYA00429316
+data_15_attributes_analysis-status,completed
+data_15_attributes_complete-time,2020-08-21T11:26:50
+data_15_attributes_instrument-platform,LS454
+data_15_attributes_instrument-model,454 GS FLX Titanium
+data_15_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429316/go-slim
+data_15_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429316/taxonomy/unite
+data_15_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429316/taxonomy/itsonedb
+data_15_relationships_run_data_type,runs
+data_15_relationships_run_data_id,ERR632197
+data_15_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/ERR632197
+data_15_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429316/taxonomy/ssu
+data_15_relationships_assembly_data_data,
+data_15_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429316/go-terms
+data_15_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429316/genome-properties
+data_15_relationships_study_data_type,studies
+data_15_relationships_study_data_id,MGYS00001811
+data_15_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00001811
+data_15_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429316/taxonomy/lsu
+data_15_relationships_sample_data_type,samples
+data_15_relationships_sample_data_id,ERS492647
+data_15_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/ERS492647
+data_15_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429316/interpro-identifiers
+data_15_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429316/downloads
+data_15_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429316/antismash-gene-clusters
+data_15_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429316/taxonomy
+data_15_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429316
+data_16_type,analysis-jobs
+data_16_id,MGYA00429317
+data_16_attributes_pipeline-version,5.0
+data_16_attributes_experiment-type,amplicon
+data_16_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_16_attributes_analysis-summary_0_value,45530
+data_16_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_16_attributes_analysis-summary_1_value,34232
+data_16_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_16_attributes_analysis-summary_2_value,34232
+data_16_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_16_attributes_analysis-summary_3_value,34232
+data_16_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_16_attributes_analysis-summary_4_value,0
+data_16_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_16_attributes_analysis-summary_5_value,1
+data_16_attributes_accession,MGYA00429317
+data_16_attributes_analysis-status,completed
+data_16_attributes_complete-time,2020-08-21T11:28:13
+data_16_attributes_instrument-platform,LS454
+data_16_attributes_instrument-model,454 GS FLX Titanium
+data_16_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429317/go-slim
+data_16_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429317/taxonomy/unite
+data_16_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429317/taxonomy/itsonedb
+data_16_relationships_run_data_type,runs
+data_16_relationships_run_data_id,ERR632192
+data_16_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/ERR632192
+data_16_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429317/taxonomy/ssu
+data_16_relationships_assembly_data_data,
+data_16_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429317/go-terms
+data_16_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429317/genome-properties
+data_16_relationships_study_data_type,studies
+data_16_relationships_study_data_id,MGYS00001811
+data_16_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00001811
+data_16_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429317/taxonomy/lsu
+data_16_relationships_sample_data_type,samples
+data_16_relationships_sample_data_id,ERS490089
+data_16_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/ERS490089
+data_16_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429317/interpro-identifiers
+data_16_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429317/downloads
+data_16_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429317/antismash-gene-clusters
+data_16_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429317/taxonomy
+data_16_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429317
+data_17_type,analysis-jobs
+data_17_id,MGYA00429318
+data_17_attributes_pipeline-version,5.0
+data_17_attributes_experiment-type,amplicon
+data_17_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_17_attributes_analysis-summary_0_value,198435
+data_17_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_17_attributes_analysis-summary_1_value,193419
+data_17_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_17_attributes_analysis-summary_2_value,193419
+data_17_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_17_attributes_analysis-summary_3_value,193419
+data_17_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_17_attributes_analysis-summary_4_value,34
+data_17_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_17_attributes_analysis-summary_5_value,5
+data_17_attributes_accession,MGYA00429318
+data_17_attributes_analysis-status,completed
+data_17_attributes_complete-time,2020-08-21T11:29:00
+data_17_attributes_instrument-platform,ILLUMINA
+data_17_attributes_instrument-model,Illumina MiSeq
+data_17_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429318/go-slim
+data_17_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429318/taxonomy/unite
+data_17_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429318/taxonomy/itsonedb
+data_17_relationships_run_data_type,runs
+data_17_relationships_run_data_id,ERR632189
+data_17_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/ERR632189
+data_17_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429318/taxonomy/ssu
+data_17_relationships_assembly_data_data,
+data_17_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429318/go-terms
+data_17_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429318/genome-properties
+data_17_relationships_study_data_type,studies
+data_17_relationships_study_data_id,MGYS00001811
+data_17_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00001811
+data_17_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429318/taxonomy/lsu
+data_17_relationships_sample_data_type,samples
+data_17_relationships_sample_data_id,ERS492648
+data_17_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/ERS492648
+data_17_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429318/interpro-identifiers
+data_17_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429318/downloads
+data_17_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429318/antismash-gene-clusters
+data_17_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429318/taxonomy
+data_17_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429318
+data_18_type,analysis-jobs
+data_18_id,MGYA00429319
+data_18_attributes_pipeline-version,5.0
+data_18_attributes_experiment-type,amplicon
+data_18_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_18_attributes_analysis-summary_0_value,38256
+data_18_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_18_attributes_analysis-summary_1_value,30970
+data_18_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_18_attributes_analysis-summary_2_value,30970
+data_18_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_18_attributes_analysis-summary_3_value,30970
+data_18_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_18_attributes_analysis-summary_4_value,35
+data_18_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_18_attributes_analysis-summary_5_value,0
+data_18_attributes_accession,MGYA00429319
+data_18_attributes_analysis-status,completed
+data_18_attributes_complete-time,2020-08-21T11:32:51
+data_18_attributes_instrument-platform,LS454
+data_18_attributes_instrument-model,454 GS FLX Titanium
+data_18_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429319/go-slim
+data_18_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429319/taxonomy/unite
+data_18_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429319/taxonomy/itsonedb
+data_18_relationships_run_data_type,runs
+data_18_relationships_run_data_id,ERR632178
+data_18_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/ERR632178
+data_18_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429319/taxonomy/ssu
+data_18_relationships_assembly_data_data,
+data_18_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429319/go-terms
+data_18_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429319/genome-properties
+data_18_relationships_study_data_type,studies
+data_18_relationships_study_data_id,MGYS00001811
+data_18_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00001811
+data_18_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429319/taxonomy/lsu
+data_18_relationships_sample_data_type,samples
+data_18_relationships_sample_data_id,ERS492648
+data_18_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/ERS492648
+data_18_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429319/interpro-identifiers
+data_18_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429319/downloads
+data_18_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429319/antismash-gene-clusters
+data_18_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429319/taxonomy
+data_18_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429319
+data_19_type,analysis-jobs
+data_19_id,MGYA00429320
+data_19_attributes_pipeline-version,5.0
+data_19_attributes_experiment-type,amplicon
+data_19_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_19_attributes_analysis-summary_0_value,132
+data_19_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_19_attributes_analysis-summary_1_value,130
+data_19_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_19_attributes_analysis-summary_2_value,130
+data_19_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_19_attributes_analysis-summary_3_value,130
+data_19_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_19_attributes_analysis-summary_4_value,0
+data_19_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_19_attributes_analysis-summary_5_value,74
+data_19_attributes_accession,MGYA00429320
+data_19_attributes_analysis-status,completed
+data_19_attributes_complete-time,2020-11-14T12:46:12
+data_19_attributes_instrument-platform,LS454
+data_19_attributes_instrument-model,454 GS Junior
+data_19_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429320/go-slim
+data_19_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429320/taxonomy/unite
+data_19_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429320/taxonomy/itsonedb
+data_19_relationships_run_data_type,runs
+data_19_relationships_run_data_id,DRR011295
+data_19_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/DRR011295
+data_19_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429320/taxonomy/ssu
+data_19_relationships_assembly_data_data,
+data_19_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429320/go-terms
+data_19_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429320/genome-properties
+data_19_relationships_study_data_type,studies
+data_19_relationships_study_data_id,MGYS00005240
+data_19_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00005240
+data_19_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429320/taxonomy/lsu
+data_19_relationships_sample_data_type,samples
+data_19_relationships_sample_data_id,DRS010096
+data_19_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/DRS010096
+data_19_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429320/interpro-identifiers
+data_19_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429320/downloads
+data_19_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429320/antismash-gene-clusters
+data_19_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429320/taxonomy
+data_19_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429320
+data_20_type,analysis-jobs
+data_20_id,MGYA00429321
+data_20_attributes_pipeline-version,5.0
+data_20_attributes_experiment-type,amplicon
+data_20_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_20_attributes_analysis-summary_0_value,113
+data_20_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_20_attributes_analysis-summary_1_value,113
+data_20_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_20_attributes_analysis-summary_2_value,113
+data_20_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_20_attributes_analysis-summary_3_value,113
+data_20_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_20_attributes_analysis-summary_4_value,0
+data_20_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_20_attributes_analysis-summary_5_value,46
+data_20_attributes_accession,MGYA00429321
+data_20_attributes_analysis-status,completed
+data_20_attributes_complete-time,2020-11-15T20:52:30
+data_20_attributes_instrument-platform,LS454
+data_20_attributes_instrument-model,454 GS Junior
+data_20_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429321/go-slim
+data_20_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429321/taxonomy/unite
+data_20_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429321/taxonomy/itsonedb
+data_20_relationships_run_data_type,runs
+data_20_relationships_run_data_id,DRR011291
+data_20_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/DRR011291
+data_20_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429321/taxonomy/ssu
+data_20_relationships_assembly_data_data,
+data_20_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429321/go-terms
+data_20_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429321/genome-properties
+data_20_relationships_study_data_type,studies
+data_20_relationships_study_data_id,MGYS00005240
+data_20_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00005240
+data_20_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429321/taxonomy/lsu
+data_20_relationships_sample_data_type,samples
+data_20_relationships_sample_data_id,DRS010092
+data_20_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/DRS010092
+data_20_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429321/interpro-identifiers
+data_20_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429321/downloads
+data_20_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429321/antismash-gene-clusters
+data_20_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429321/taxonomy
+data_20_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429321
+data_21_type,analysis-jobs
+data_21_id,MGYA00429322
+data_21_attributes_pipeline-version,5.0
+data_21_attributes_experiment-type,amplicon
+data_21_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_21_attributes_analysis-summary_0_value,1
+data_21_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_21_attributes_analysis-summary_1_value,1
+data_21_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_21_attributes_analysis-summary_2_value,1
+data_21_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_21_attributes_analysis-summary_3_value,1
+data_21_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_21_attributes_analysis-summary_4_value,0
+data_21_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_21_attributes_analysis-summary_5_value,1
+data_21_attributes_accession,MGYA00429322
+data_21_attributes_analysis-status,completed
+data_21_attributes_complete-time,2020-11-14T09:07:44
+data_21_attributes_instrument-platform,LS454
+data_21_attributes_instrument-model,454 GS Junior
+data_21_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429322/go-slim
+data_21_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429322/taxonomy/unite
+data_21_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429322/taxonomy/itsonedb
+data_21_relationships_run_data_type,runs
+data_21_relationships_run_data_id,DRR010906
+data_21_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/DRR010906
+data_21_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429322/taxonomy/ssu
+data_21_relationships_assembly_data_data,
+data_21_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429322/go-terms
+data_21_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429322/genome-properties
+data_21_relationships_study_data_type,studies
+data_21_relationships_study_data_id,MGYS00005240
+data_21_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00005240
+data_21_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429322/taxonomy/lsu
+data_21_relationships_sample_data_type,samples
+data_21_relationships_sample_data_id,DRS009707
+data_21_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/DRS009707
+data_21_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429322/interpro-identifiers
+data_21_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429322/downloads
+data_21_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429322/antismash-gene-clusters
+data_21_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429322/taxonomy
+data_21_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429322
+data_22_type,analysis-jobs
+data_22_id,MGYA00429323
+data_22_attributes_pipeline-version,5.0
+data_22_attributes_experiment-type,amplicon
+data_22_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_22_attributes_analysis-summary_0_value,67
+data_22_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_22_attributes_analysis-summary_1_value,63
+data_22_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_22_attributes_analysis-summary_2_value,63
+data_22_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_22_attributes_analysis-summary_3_value,63
+data_22_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_22_attributes_analysis-summary_4_value,0
+data_22_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_22_attributes_analysis-summary_5_value,8
+data_22_attributes_accession,MGYA00429323
+data_22_attributes_analysis-status,completed
+data_22_attributes_complete-time,2020-11-15T21:44:02
+data_22_attributes_instrument-platform,LS454
+data_22_attributes_instrument-model,454 GS Junior
+data_22_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429323/go-slim
+data_22_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429323/taxonomy/unite
+data_22_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429323/taxonomy/itsonedb
+data_22_relationships_run_data_type,runs
+data_22_relationships_run_data_id,DRR010749
+data_22_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/DRR010749
+data_22_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429323/taxonomy/ssu
+data_22_relationships_assembly_data_data,
+data_22_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429323/go-terms
+data_22_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429323/genome-properties
+data_22_relationships_study_data_type,studies
+data_22_relationships_study_data_id,MGYS00005240
+data_22_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00005240
+data_22_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429323/taxonomy/lsu
+data_22_relationships_sample_data_type,samples
+data_22_relationships_sample_data_id,DRS009550
+data_22_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/DRS009550
+data_22_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429323/interpro-identifiers
+data_22_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429323/downloads
+data_22_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429323/antismash-gene-clusters
+data_22_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429323/taxonomy
+data_22_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429323
+data_23_type,analysis-jobs
+data_23_id,MGYA00429324
+data_23_attributes_pipeline-version,5.0
+data_23_attributes_experiment-type,amplicon
+data_23_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_23_attributes_analysis-summary_0_value,131
+data_23_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_23_attributes_analysis-summary_1_value,128
+data_23_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_23_attributes_analysis-summary_2_value,128
+data_23_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_23_attributes_analysis-summary_3_value,128
+data_23_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_23_attributes_analysis-summary_4_value,0
+data_23_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_23_attributes_analysis-summary_5_value,52
+data_23_attributes_accession,MGYA00429324
+data_23_attributes_analysis-status,completed
+data_23_attributes_complete-time,2020-11-14T09:54:23
+data_23_attributes_instrument-platform,LS454
+data_23_attributes_instrument-model,454 GS Junior
+data_23_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429324/go-slim
+data_23_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429324/taxonomy/unite
+data_23_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429324/taxonomy/itsonedb
+data_23_relationships_run_data_type,runs
+data_23_relationships_run_data_id,DRR010664
+data_23_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/DRR010664
+data_23_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429324/taxonomy/ssu
+data_23_relationships_assembly_data_data,
+data_23_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429324/go-terms
+data_23_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429324/genome-properties
+data_23_relationships_study_data_type,studies
+data_23_relationships_study_data_id,MGYS00005240
+data_23_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00005240
+data_23_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429324/taxonomy/lsu
+data_23_relationships_sample_data_type,samples
+data_23_relationships_sample_data_id,DRS009465
+data_23_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/DRS009465
+data_23_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429324/interpro-identifiers
+data_23_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429324/downloads
+data_23_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429324/antismash-gene-clusters
+data_23_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429324/taxonomy
+data_23_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429324
+data_24_type,analysis-jobs
+data_24_id,MGYA00429325
+data_24_attributes_pipeline-version,5.0
+data_24_attributes_experiment-type,amplicon
+data_24_attributes_analysis-summary_0_key,Submitted nucleotide sequences
+data_24_attributes_analysis-summary_0_value,67
+data_24_attributes_analysis-summary_1_key,Nucleotide sequences after format-specific filtering
+data_24_attributes_analysis-summary_1_value,66
+data_24_attributes_analysis-summary_2_key,Nucleotide sequences after length filtering
+data_24_attributes_analysis-summary_2_value,66
+data_24_attributes_analysis-summary_3_key,Nucleotide sequences after undetermined bases filtering
+data_24_attributes_analysis-summary_3_value,66
+data_24_attributes_analysis-summary_4_key,Predicted SSU sequences
+data_24_attributes_analysis-summary_4_value,0
+data_24_attributes_analysis-summary_5_key,Predicted LSU sequences
+data_24_attributes_analysis-summary_5_value,21
+data_24_attributes_accession,MGYA00429325
+data_24_attributes_analysis-status,completed
+data_24_attributes_complete-time,2020-11-14T07:23:52
+data_24_attributes_instrument-platform,LS454
+data_24_attributes_instrument-model,454 GS Junior
+data_24_relationships_go-slim_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429325/go-slim
+data_24_relationships_taxonomy-itsunite_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429325/taxonomy/unite
+data_24_relationships_taxonomy-itsonedb_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429325/taxonomy/itsonedb
+data_24_relationships_run_data_type,runs
+data_24_relationships_run_data_id,DRR011472
+data_24_relationships_run_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/runs/DRR011472
+data_24_relationships_taxonomy-ssu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429325/taxonomy/ssu
+data_24_relationships_assembly_data_data,
+data_24_relationships_go-terms_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429325/go-terms
+data_24_relationships_genome-properties_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429325/genome-properties
+data_24_relationships_study_data_type,studies
+data_24_relationships_study_data_id,MGYS00005240
+data_24_relationships_study_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00005240
+data_24_relationships_taxonomy-lsu_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429325/taxonomy/lsu
+data_24_relationships_sample_data_type,samples
+data_24_relationships_sample_data_id,DRS010273
+data_24_relationships_sample_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/samples/DRS010273
+data_24_relationships_interpro-identifiers_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429325/interpro-identifiers
+data_24_relationships_downloads_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429325/downloads
+data_24_relationships_antismash-gene-clusters_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429325/antismash-gene-clusters
+data_24_relationships_taxonomy_links_related,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429325/taxonomy
+data_24_links_self,https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00429325
+meta_pagination_page,1
+meta_pagination_pages,17230
+meta_pagination_count,430741

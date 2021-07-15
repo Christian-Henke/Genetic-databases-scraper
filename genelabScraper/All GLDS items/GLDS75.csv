@@ -1,0 +1,17 @@
+hits,1
+input,75
+page_number,1
+total_hits,1
+page_total,1
+success,True
+valid_input_0,75
+studies_GLDS-75_study_files_0_file_name,GLDS-75_microarray_GSE27288_RAW.tar.gz
+studies_GLDS-75_study_files_0_remote_url,/datamanager/file/Home/genelab-data/GLDS-75/microarray/GLDS-75_microarray_GSE27288_RAW.tar.gz
+studies_GLDS-75_study_files_0_file_size,79807
+studies_GLDS-75_study_files_0_date_created,1506008637506
+studies_GLDS-75_study_files_1_file_name,GLDS-75_metadata_GSE27288-ISA.zip
+studies_GLDS-75_study_files_1_remote_url,/datamanager/file/Home/genelab-data/GLDS-75/metadata/GLDS-75_metadata_GSE27288-ISA.zip
+studies_GLDS-75_study_files_1_file_size,4370
+studies_GLDS-75_study_files_1_date_created,1506008637506
+studies_GLDS-75_file_count,2
+page_size,25
