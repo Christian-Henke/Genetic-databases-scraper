@@ -1,0 +1,247 @@
+{
+    "hits": 1,
+    "input": "3",
+    "page_number": 1,
+    "total_hits": 1,
+    "page_total": 1,
+    "success": true,
+    "valid_input": [
+        "3"
+    ],
+    "studies": {
+        "GLDS-3": {
+            "study_files": [
+                {
+                    "file_name": "GLDS-3_microarray_E-GEOD-23880.raw.1.zip",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/microarray/GLDS-3_microarray_E-GEOD-23880.raw.1.zip",
+                    "file_size": 38542748,
+                    "date_created": 1506008636737
+                },
+                {
+                    "file_name": "GLDS-3_array_contrasts.csv",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_contrasts.csv",
+                    "file_size": 1073,
+                    "date_created": 1562861566584
+                },
+                {
+                    "file_name": "GLDS-3_array_annotReport.txt",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_annotReport.txt",
+                    "file_size": 210,
+                    "date_created": 1562861566658
+                },
+                {
+                    "file_name": "GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_FLT_Adult_Rep3_GSM588939_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_FLT_Adult_Rep3_GSM588939_raw.CEL.gz",
+                    "file_size": 2112956,
+                    "date_created": 1562861566484
+                },
+                {
+                    "file_name": "GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_GC_Adult_Rep3_GSM588948_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_GC_Adult_Rep3_GSM588948_raw.CEL.gz",
+                    "file_size": 2099829,
+                    "date_created": 1562861566627
+                },
+                {
+                    "file_name": "GLDS-3_array_normPlotMA.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_normPlotMA.png",
+                    "file_size": 160098,
+                    "date_created": 1562861566389
+                },
+                {
+                    "file_name": "GLDS-3_array_normalized.txt",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_normalized.txt",
+                    "file_size": 5979040,
+                    "date_created": 1562861566697
+                },
+                {
+                    "file_name": "GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_FLT_3rd-Instar-Larva_Rep3_GSM588933_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_FLT_3rd-Instar-Larva_Rep3_GSM588933_raw.CEL.gz",
+                    "file_size": 2109837,
+                    "date_created": 1562861566813
+                },
+                {
+                    "file_name": "GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_GC_3rd-Instar-Larva_Rep5_GSM588944_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_GC_3rd-Instar-Larva_Rep5_GSM588944_raw.CEL.gz",
+                    "file_size": 2194525,
+                    "date_created": 1562861566452
+                },
+                {
+                    "file_name": "GLDS-3_array_arrayInfo.txt",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_arrayInfo.txt",
+                    "file_size": 24,
+                    "date_created": 1562861566558
+                },
+                {
+                    "file_name": "GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_GC_Adult_Rep1_GSM588946_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_GC_Adult_Rep1_GSM588946_raw.CEL.gz",
+                    "file_size": 2193630,
+                    "date_created": 1562861567447
+                },
+                {
+                    "file_name": "GLDS-3_array_differential_expression.csv",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_differential_expression.csv",
+                    "file_size": 16805834,
+                    "date_created": 1562861570330
+                },
+                {
+                    "file_name": "GLDS-3_array_normDensityDistributions.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_normDensityDistributions.png",
+                    "file_size": 55630,
+                    "date_created": 1562861566614
+                },
+                {
+                    "file_name": "GLDS-3_array_visualization_PCA_table.csv",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_visualization_PCA_table.csv",
+                    "file_size": 6916,
+                    "date_created": 1595617316976
+                },
+                {
+                    "file_name": "GLDS-3_array_visualization_output_table.csv",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_visualization_output_table.csv",
+                    "file_size": 24327113,
+                    "date_created": 1595617316976
+                },
+                {
+                    "file_name": "GLDS-3_array_images.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_images.png",
+                    "file_size": 205853,
+                    "date_created": 1562861566826
+                },
+                {
+                    "file_name": "GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_FLT_Adult_Rep2_GSM588938_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_FLT_Adult_Rep2_GSM588938_raw.CEL.gz",
+                    "file_size": 2139634,
+                    "date_created": 1562861566833
+                },
+                {
+                    "file_name": "GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_FLT_3rd-Instar-Larva_Rep5_GSM588935_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_FLT_3rd-Instar-Larva_Rep5_GSM588935_raw.CEL.gz",
+                    "file_size": 2203921,
+                    "date_created": 1562861566840
+                },
+                {
+                    "file_name": "GLDS-3_array_md5sum.txt",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_md5sum.txt",
+                    "file_size": 2103,
+                    "date_created": 1562861566849
+                },
+                {
+                    "file_name": "GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_GC_3rd-Instar-Larva_Rep1_GSM588940_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_GC_3rd-Instar-Larva_Rep1_GSM588940_raw.CEL.gz",
+                    "file_size": 2214359,
+                    "date_created": 1562861566902
+                },
+                {
+                    "file_name": "GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_FLT_3rd-Instar-Larva_Rep1_GSM588931_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_FLT_3rd-Instar-Larva_Rep1_GSM588931_raw.CEL.gz",
+                    "file_size": 2211844,
+                    "date_created": 1562861566915
+                },
+                {
+                    "file_name": "GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_GC_3rd-Instar-Larva_Rep4_GSM588943_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_GC_3rd-Instar-Larva_Rep4_GSM588943_raw.CEL.gz",
+                    "file_size": 2121742,
+                    "date_created": 1562861566929
+                },
+                {
+                    "file_name": "GLDS-3_array_normBoxplot.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_normBoxplot.png",
+                    "file_size": 22112,
+                    "date_created": 1562861566952
+                },
+                {
+                    "file_name": "GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_FLT_3rd-Instar-Larva_Rep2_GSM588932_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_FLT_3rd-Instar-Larva_Rep2_GSM588932_raw.CEL.gz",
+                    "file_size": 2031190,
+                    "date_created": 1562861566975
+                },
+                {
+                    "file_name": "GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_FLT_Adult_Rep1_GSM588937_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_FLT_Adult_Rep1_GSM588937_raw.CEL.gz",
+                    "file_size": 2151975,
+                    "date_created": 1562861566992
+                },
+                {
+                    "file_name": "GLDS-3_array_normalized-annotated.rda",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_normalized-annotated.rda",
+                    "file_size": 1753031,
+                    "date_created": 1562861567006
+                },
+                {
+                    "file_name": "GLDS-3_array_rawPCA.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_rawPCA.png",
+                    "file_size": 43863,
+                    "date_created": 1562861567006
+                },
+                {
+                    "file_name": "GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_GC_3rd-Instar-Larva_Rep3_GSM588942_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_GC_3rd-Instar-Larva_Rep3_GSM588942_raw.CEL.gz",
+                    "file_size": 1988648,
+                    "date_created": 1562861567010
+                },
+                {
+                    "file_name": "GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_GC_Adult_Rep2_GSM588947_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_GC_Adult_Rep2_GSM588947_raw.CEL.gz",
+                    "file_size": 2154283,
+                    "date_created": 1562861567049
+                },
+                {
+                    "file_name": "GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_FLT_3rd-Instar-Larva_Rep4_GSM588934_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_FLT_3rd-Instar-Larva_Rep4_GSM588934_raw.CEL.gz",
+                    "file_size": 2093941,
+                    "date_created": 1562861566262
+                },
+                {
+                    "file_name": "GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_FLT_3rd-Instar-Larva_Rep6_GSM588936_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_FLT_3rd-Instar-Larva_Rep6_GSM588936_raw.CEL.gz",
+                    "file_size": 2240873,
+                    "date_created": 1562861566263
+                },
+                {
+                    "file_name": "GLDS-3_array_rawBoxplot.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_rawBoxplot.png",
+                    "file_size": 22093,
+                    "date_created": 1562861566333
+                },
+                {
+                    "file_name": "GLDS-3_array_normPCA.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_normPCA.png",
+                    "file_size": 35687,
+                    "date_created": 1562861566353
+                },
+                {
+                    "file_name": "GLDS-3_array_normalized-annotated.txt",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_normalized-annotated.txt",
+                    "file_size": 3982299,
+                    "date_created": 1562861566489
+                },
+                {
+                    "file_name": "GLDS-3_array_rawDensityDistributions.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_rawDensityDistributions.png",
+                    "file_size": 87767,
+                    "date_created": 1562861566668
+                },
+                {
+                    "file_name": "GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_GC_3rd-Instar-Larva_Rep2_GSM588941_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_GC_3rd-Instar-Larva_Rep2_GSM588941_raw.CEL.gz",
+                    "file_size": 2099604,
+                    "date_created": 1562861566745
+                },
+                {
+                    "file_name": "GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_GC_3rd-Instar-Larva_Rep6_GSM588945_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/array/GLDS-3_array_Dmel_Hml-GAL4-UAS-GFP_wo_GC_3rd-Instar-Larva_Rep6_GSM588945_raw.CEL.gz",
+                    "file_size": 2126340,
+                    "date_created": 1562861566808
+                },
+                {
+                    "file_name": "GLDS-3_metadata_E-GEOD-23880-ISA.zip",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-3/metadata/GLDS-3_metadata_E-GEOD-23880-ISA.zip",
+                    "file_size": 9485,
+                    "date_created": 1586031922282
+                }
+            ],
+            "file_count": 38
+        }
+    },
+    "page_size": 25
+}

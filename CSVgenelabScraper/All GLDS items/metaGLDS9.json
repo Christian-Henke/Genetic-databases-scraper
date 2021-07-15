@@ -1,0 +1,3068 @@
+{
+    "hits": 1,
+    "input": "9",
+    "study": {
+        "GLDS-9": {
+            "isa2json": {
+                "ontologySourceReferences": [
+                    {
+                        "version": "2",
+                        "description": "National Center for Biotechnology Information (NCBI) Organismal Classification",
+                        "file": "http://data.bioontology.org/ontologies/NCBITAXON",
+                        "name": "NCBITAXON"
+                    },
+                    {
+                        "version": "21",
+                        "description": "Ontology for Biomedical Investigations",
+                        "file": "http://data.bioontology.org/ontologies/OBI",
+                        "name": "OBI"
+                    },
+                    {
+                        "version": "111",
+                        "description": "Experimental Factor Ontology",
+                        "file": "http://data.bioontology.org/ontologies/EFO",
+                        "name": "EFO"
+                    },
+                    {
+                        "version": "",
+                        "description": "",
+                        "file": "",
+                        "name": ""
+                    }
+                ],
+                "description": "",
+                "people": [],
+                "additionalInformation": {
+                    "description": {
+                        "assays": [
+                            {
+                                "Device Platform": "Compugen",
+                                "Device Type": "<a target=\"_blank\" href=\"http://purl.obolibrary.org/obo/OBI_0400148\" title=\"A DNA-microarray is a microarray that is used as a physical 2D immobilisation matrix for DNA sequences. DNA microarray-bound DNA fragments are used as targets for a hybridising probed sample. DNA Chip\" source=\"OBI\">DNA microarray</a>",
+                                "Assay Type": "<a target=\"_blank\" href=\"http://purl.obolibrary.org/obo/OBI_0000424\" title=\"An assay that determines gene expression and transcription activity using ribonucleic acids collected from a material entity. gene expression profiling, transcription profiling\" source=\"OBI\">transcription profiling</a>"
+                            }
+                        ],
+                        "factors": [
+                            {
+                                "Ontology: Concept": "<a target=\"_blank\" href=\"http://purl.obolibrary.org/obo/OBI_0302889\" title=\"irradiation is a process by which a material entity is exposed to radiative energy, which could be ionizing radiation (such as gamma rays or X-rays)  or not such as UV light or microwaves\" source=\"OBI\">irradiation</a>",
+                                "factor": "Irradiated"
+                            }
+                        ]
+                    },
+                    "samples": {
+                        "s_E-GEOD-16519_study_samples-txt": {
+                            "raw": [
+                                {
+                                    "a100004termsourceref": "NCBITAXON",
+                                    "a100010samplename": "GSM415019 extract 1",
+                                    "a100006characteristicscelltype": "lymphoblastoid",
+                                    "a100003characteristicsorganism": "Homo sapiens",
+                                    "a100007termsourceref": "",
+                                    "a100008termaccessionnumber": "",
+                                    "a100005termaccessionnumber": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                    "a100002commentsample_source_name": "TK6 mock irradiated",
+                                    "a100009protocolref": "P-GSE16519-4",
+                                    "a100001commentsample_description": "biological repeat 3",
+                                    "a100000sourcename": "GSM415019 1"
+                                },
+                                {
+                                    "a100004termsourceref": "NCBITAXON",
+                                    "a100010samplename": "GSM415017 extract 1",
+                                    "a100006characteristicscelltype": "lymphoblastoid",
+                                    "a100003characteristicsorganism": "Homo sapiens",
+                                    "a100007termsourceref": "",
+                                    "a100008termaccessionnumber": "",
+                                    "a100005termaccessionnumber": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                    "a100002commentsample_source_name": "TK6 mock irradiated",
+                                    "a100009protocolref": "P-GSE16519-4",
+                                    "a100001commentsample_description": "biological repeat 2",
+                                    "a100000sourcename": "GSM415017 1"
+                                },
+                                {
+                                    "a100004termsourceref": "NCBITAXON",
+                                    "a100010samplename": "GSM415016 extract 1",
+                                    "a100006characteristicscelltype": "lymphoblastoid",
+                                    "a100003characteristicsorganism": "Homo sapiens",
+                                    "a100007termsourceref": "",
+                                    "a100008termaccessionnumber": "",
+                                    "a100005termaccessionnumber": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                    "a100002commentsample_source_name": "TK6 exposed to activated medium 3 hours",
+                                    "a100009protocolref": "P-GSE16519-4",
+                                    "a100001commentsample_description": "biological repeat 1",
+                                    "a100000sourcename": "GSM415016 1"
+                                },
+                                {
+                                    "a100004termsourceref": "NCBITAXON",
+                                    "a100010samplename": "GSM415015 extract 1",
+                                    "a100006characteristicscelltype": "lymphoblastoid",
+                                    "a100003characteristicsorganism": "Homo sapiens",
+                                    "a100007termsourceref": "",
+                                    "a100008termaccessionnumber": "",
+                                    "a100005termaccessionnumber": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                    "a100002commentsample_source_name": "TK6 mock irradiated",
+                                    "a100009protocolref": "P-GSE16519-4",
+                                    "a100001commentsample_description": "biological repeat 1",
+                                    "a100000sourcename": "GSM415015 1"
+                                },
+                                {
+                                    "a100004termsourceref": "NCBITAXON",
+                                    "a100010samplename": "GSM415020 extract 1",
+                                    "a100006characteristicscelltype": "lymphoblastoid",
+                                    "a100003characteristicsorganism": "Homo sapiens",
+                                    "a100007termsourceref": "",
+                                    "a100008termaccessionnumber": "",
+                                    "a100005termaccessionnumber": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                    "a100002commentsample_source_name": "TK6 exposed to activated medium 3 hours",
+                                    "a100009protocolref": "P-GSE16519-4",
+                                    "a100001commentsample_description": "biological repeat 3",
+                                    "a100000sourcename": "GSM415020 1"
+                                },
+                                {
+                                    "a100004termsourceref": "NCBITAXON",
+                                    "a100010samplename": "GSM415018 extract 1",
+                                    "a100006characteristicscelltype": "lymphoblastoid",
+                                    "a100003characteristicsorganism": "Homo sapiens",
+                                    "a100007termsourceref": "",
+                                    "a100008termaccessionnumber": "",
+                                    "a100005termaccessionnumber": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                    "a100002commentsample_source_name": "TK6 exposed to activated medium 3 hours",
+                                    "a100009protocolref": "P-GSE16519-4",
+                                    "a100001commentsample_description": "biological repeat 2",
+                                    "a100000sourcename": "GSM415018 1"
+                                }
+                            ],
+                            "header": [
+                                {
+                                    "width": 200,
+                                    "title": "Source Name",
+                                    "field": "a100000sourcename",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Comment: Sample_description",
+                                    "field": "a100001commentsample_description",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Comment: Sample_source_name",
+                                    "field": "a100002commentsample_source_name",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Characteristics: Organism",
+                                    "field": "a100003characteristicsorganism",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Characteristics: cell type",
+                                    "field": "a100006characteristicscelltype",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Protocol REF",
+                                    "field": "a100009protocolref",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Sample Name",
+                                    "field": "a100010samplename",
+                                    "encoded": false
+                                }
+                            ],
+                            "table": [
+                                {
+                                    "a100006characteristicscelltype": "lymphoblastoid",
+                                    "a100003characteristicsorganism": "<a target=\"_blank\" href=\"http://purl.bioontology.org/ontology/NCBITAXON/9606\" title=\"man\" source=\"NCBITAXON\">Homo sapiens </a>",
+                                    "a100001commentsample_description": "biological repeat 3",
+                                    "a100000sourcename": "GSM415019 1",
+                                    "a100002commentsample_source_name": "TK6 mock irradiated",
+                                    "a100009protocolref": "P-GSE16519-4",
+                                    "a100010samplename": "GSM415019 extract 1"
+                                },
+                                {
+                                    "a100006characteristicscelltype": "lymphoblastoid",
+                                    "a100003characteristicsorganism": "<a target=\"_blank\" href=\"http://purl.bioontology.org/ontology/NCBITAXON/9606\" title=\"man\" source=\"NCBITAXON\">Homo sapiens </a>",
+                                    "a100001commentsample_description": "biological repeat 2",
+                                    "a100000sourcename": "GSM415017 1",
+                                    "a100002commentsample_source_name": "TK6 mock irradiated",
+                                    "a100009protocolref": "P-GSE16519-4",
+                                    "a100010samplename": "GSM415017 extract 1"
+                                },
+                                {
+                                    "a100006characteristicscelltype": "lymphoblastoid",
+                                    "a100003characteristicsorganism": "<a target=\"_blank\" href=\"http://purl.bioontology.org/ontology/NCBITAXON/9606\" title=\"man\" source=\"NCBITAXON\">Homo sapiens </a>",
+                                    "a100001commentsample_description": "biological repeat 1",
+                                    "a100000sourcename": "GSM415016 1",
+                                    "a100002commentsample_source_name": "TK6 exposed to activated medium 3 hours",
+                                    "a100009protocolref": "P-GSE16519-4",
+                                    "a100010samplename": "GSM415016 extract 1"
+                                },
+                                {
+                                    "a100006characteristicscelltype": "lymphoblastoid",
+                                    "a100003characteristicsorganism": "<a target=\"_blank\" href=\"http://purl.bioontology.org/ontology/NCBITAXON/9606\" title=\"man\" source=\"NCBITAXON\">Homo sapiens </a>",
+                                    "a100001commentsample_description": "biological repeat 1",
+                                    "a100000sourcename": "GSM415015 1",
+                                    "a100002commentsample_source_name": "TK6 mock irradiated",
+                                    "a100009protocolref": "P-GSE16519-4",
+                                    "a100010samplename": "GSM415015 extract 1"
+                                },
+                                {
+                                    "a100006characteristicscelltype": "lymphoblastoid",
+                                    "a100003characteristicsorganism": "<a target=\"_blank\" href=\"http://purl.bioontology.org/ontology/NCBITAXON/9606\" title=\"man\" source=\"NCBITAXON\">Homo sapiens </a>",
+                                    "a100001commentsample_description": "biological repeat 3",
+                                    "a100000sourcename": "GSM415020 1",
+                                    "a100002commentsample_source_name": "TK6 exposed to activated medium 3 hours",
+                                    "a100009protocolref": "P-GSE16519-4",
+                                    "a100010samplename": "GSM415020 extract 1"
+                                },
+                                {
+                                    "a100006characteristicscelltype": "lymphoblastoid",
+                                    "a100003characteristicsorganism": "<a target=\"_blank\" href=\"http://purl.bioontology.org/ontology/NCBITAXON/9606\" title=\"man\" source=\"NCBITAXON\">Homo sapiens </a>",
+                                    "a100001commentsample_description": "biological repeat 2",
+                                    "a100000sourcename": "GSM415018 1",
+                                    "a100002commentsample_source_name": "TK6 exposed to activated medium 3 hours",
+                                    "a100009protocolref": "P-GSE16519-4",
+                                    "a100010samplename": "GSM415018 extract 1"
+                                }
+                            ]
+                        }
+                    },
+                    "ontologies": {
+                        "http://purl-obolibrary-org/obo/OBI_0302889": {
+                            "definition": [
+                                "irradiation is a process by which a material entity is exposed to radiative energy, which could be ionizing radiation (such as gamma rays or X-rays)  or not such as UV light or microwaves"
+                            ],
+                            "synonym": [],
+                            "links": {
+                                "ui": "http://bioportal.bioontology.org/ontologies/OBI?p=classes&conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0302889",
+                                "ancestors": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0302889/ancestors",
+                                "mappings": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0302889/mappings",
+                                "descendants": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0302889/descendants",
+                                "self": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0302889",
+                                "tree": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0302889/tree",
+                                "instances": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0302889/instances",
+                                "parents": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0302889/parents",
+                                "notes": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0302889/notes",
+                                "@context": {
+                                    "ancestors": "http://www.w3.org/2002/07/owl#Class",
+                                    "mappings": "http://data.bioontology.org/metadata/Mapping",
+                                    "descendants": "http://www.w3.org/2002/07/owl#Class",
+                                    "notes": "http://data.bioontology.org/metadata/Note",
+                                    "tree": "http://www.w3.org/2002/07/owl#Class",
+                                    "children": "http://www.w3.org/2002/07/owl#Class",
+                                    "instances": "http://data.bioontology.org/metadata/Instance",
+                                    "parents": "http://www.w3.org/2002/07/owl#Class",
+                                    "ui": "http://www.w3.org/2002/07/owl#Class",
+                                    "ontology": "http://data.bioontology.org/metadata/Ontology",
+                                    "self": "http://www.w3.org/2002/07/owl#Class"
+                                },
+                                "ontology": "http://data.bioontology.org/ontologies/OBI",
+                                "children": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0302889/children"
+                            },
+                            "semanticType": [],
+                            "obsolete": false,
+                            "cui": [],
+                            "@context": {
+                                "definition": "http://data.bioontology.org/metadata/skosdefinition",
+                                "@vocab": "http://data.bioontology.org/metadata/",
+                                "synonym": "http://data.bioontology.org/metadata/skossynonym",
+                                "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+                                "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+                                "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+                                "cui": "http://data.bioontology.org/metadata/umlscui"
+                            },
+                            "@id": "http://purl.obolibrary.org/obo/OBI_0302889",
+                            "@type": "http://www.w3.org/2002/07/owl#Class",
+                            "prefLabel": "irradiation"
+                        },
+                        "http://purl-obolibrary-org/obo/OBI_0000424": {
+                            "definition": [
+                                "An assay that determines gene expression and transcription activity using ribonucleic acids collected from a material entity."
+                            ],
+                            "synonym": [
+                                "gene expression profiling",
+                                "transcription profiling"
+                            ],
+                            "links": {
+                                "ui": "http://bioportal.bioontology.org/ontologies/OBI?p=classes&conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0000424",
+                                "ancestors": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0000424/ancestors",
+                                "mappings": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0000424/mappings",
+                                "descendants": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0000424/descendants",
+                                "self": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0000424",
+                                "tree": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0000424/tree",
+                                "instances": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0000424/instances",
+                                "parents": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0000424/parents",
+                                "notes": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0000424/notes",
+                                "@context": {
+                                    "ancestors": "http://www.w3.org/2002/07/owl#Class",
+                                    "mappings": "http://data.bioontology.org/metadata/Mapping",
+                                    "descendants": "http://www.w3.org/2002/07/owl#Class",
+                                    "notes": "http://data.bioontology.org/metadata/Note",
+                                    "tree": "http://www.w3.org/2002/07/owl#Class",
+                                    "children": "http://www.w3.org/2002/07/owl#Class",
+                                    "instances": "http://data.bioontology.org/metadata/Instance",
+                                    "parents": "http://www.w3.org/2002/07/owl#Class",
+                                    "ui": "http://www.w3.org/2002/07/owl#Class",
+                                    "ontology": "http://data.bioontology.org/metadata/Ontology",
+                                    "self": "http://www.w3.org/2002/07/owl#Class"
+                                },
+                                "ontology": "http://data.bioontology.org/ontologies/OBI",
+                                "children": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0000424/children"
+                            },
+                            "semanticType": [],
+                            "obsolete": false,
+                            "cui": [],
+                            "@context": {
+                                "definition": "http://data.bioontology.org/metadata/skosdefinition",
+                                "@vocab": "http://data.bioontology.org/metadata/",
+                                "synonym": "http://data.bioontology.org/metadata/skossynonym",
+                                "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+                                "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+                                "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+                                "cui": "http://data.bioontology.org/metadata/umlscui"
+                            },
+                            "@id": "http://purl.obolibrary.org/obo/OBI_0000424",
+                            "@type": "http://www.w3.org/2002/07/owl#Class",
+                            "prefLabel": "transcription profiling assay"
+                        },
+                        "http://purl-obolibrary-org/obo/OBI_0400148": {
+                            "definition": [
+                                "A DNA-microarray is a microarray that is used as a physical 2D immobilisation matrix for DNA sequences. DNA microarray-bound DNA fragments are used as targets for a hybridising probed sample."
+                            ],
+                            "synonym": [
+                                "DNA Chip"
+                            ],
+                            "links": {
+                                "ui": "http://bioportal.bioontology.org/ontologies/OBI?p=classes&conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0400148",
+                                "ancestors": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0400148/ancestors",
+                                "mappings": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0400148/mappings",
+                                "descendants": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0400148/descendants",
+                                "self": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0400148",
+                                "tree": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0400148/tree",
+                                "instances": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0400148/instances",
+                                "parents": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0400148/parents",
+                                "notes": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0400148/notes",
+                                "@context": {
+                                    "ancestors": "http://www.w3.org/2002/07/owl#Class",
+                                    "mappings": "http://data.bioontology.org/metadata/Mapping",
+                                    "descendants": "http://www.w3.org/2002/07/owl#Class",
+                                    "notes": "http://data.bioontology.org/metadata/Note",
+                                    "tree": "http://www.w3.org/2002/07/owl#Class",
+                                    "children": "http://www.w3.org/2002/07/owl#Class",
+                                    "instances": "http://data.bioontology.org/metadata/Instance",
+                                    "parents": "http://www.w3.org/2002/07/owl#Class",
+                                    "ui": "http://www.w3.org/2002/07/owl#Class",
+                                    "ontology": "http://data.bioontology.org/metadata/Ontology",
+                                    "self": "http://www.w3.org/2002/07/owl#Class"
+                                },
+                                "ontology": "http://data.bioontology.org/ontologies/OBI",
+                                "children": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0400148/children"
+                            },
+                            "semanticType": [],
+                            "obsolete": false,
+                            "cui": [],
+                            "@context": {
+                                "@vocab": "http://data.bioontology.org/metadata/"
+                            },
+                            "@id": "http://purl.obolibrary.org/obo/OBI_0400148",
+                            "@type": "http://www.w3.org/2002/07/owl#Class",
+                            "prefLabel": "DNA microarray"
+                        },
+                        "httppurlbioontologyorgontologyNCBITAXON9606": {
+                            "definition": [],
+                            "synonym": [
+                                "man"
+                            ],
+                            "links": {
+                                "ui": "http://bioportal.bioontology.org/ontologies/NCBITAXON?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606",
+                                "ancestors": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/ancestors",
+                                "mappings": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/mappings",
+                                "descendants": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/descendants",
+                                "self": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606",
+                                "tree": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/tree",
+                                "instances": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/instances",
+                                "parents": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/parents",
+                                "notes": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/notes",
+                                "@context": {
+                                    "ancestors": "http://www.w3.org/2002/07/owl#Class",
+                                    "mappings": "http://data.bioontology.org/metadata/Mapping",
+                                    "descendants": "http://www.w3.org/2002/07/owl#Class",
+                                    "notes": "http://data.bioontology.org/metadata/Note",
+                                    "tree": "http://www.w3.org/2002/07/owl#Class",
+                                    "children": "http://www.w3.org/2002/07/owl#Class",
+                                    "instances": "http://data.bioontology.org/metadata/Instance",
+                                    "parents": "http://www.w3.org/2002/07/owl#Class",
+                                    "ui": "http://www.w3.org/2002/07/owl#Class",
+                                    "ontology": "http://data.bioontology.org/metadata/Ontology",
+                                    "self": "http://www.w3.org/2002/07/owl#Class"
+                                },
+                                "ontology": "http://data.bioontology.org/ontologies/NCBITAXON",
+                                "children": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/children"
+                            },
+                            "semanticType": [
+                                "http://purl.bioontology.org/ontology/STY/T016"
+                            ],
+                            "obsolete": false,
+                            "cui": [
+                                "C0086418"
+                            ],
+                            "@context": {
+                                "definition": "http://data.bioontology.org/metadata/skosdefinition",
+                                "@vocab": "http://data.bioontology.org/metadata/",
+                                "synonym": "http://data.bioontology.org/metadata/skossynonym",
+                                "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+                                "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+                                "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+                                "cui": "http://data.bioontology.org/metadata/umlscui"
+                            },
+                            "@id": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                            "@type": "http://www.w3.org/2002/07/owl#Class",
+                            "prefLabel": "Homo sapiens"
+                        }
+                    },
+                    "assays": {
+                        "a_E-GEOD-16519_GeneChip_assay-txt": {
+                            "raw": [
+                                {
+                                    "a100005protocolref": "P-GSE16519-5",
+                                    "a100010protocolref": "P-GSE16519-6",
+                                    "a100017protocolref": "P-GSE16519-1",
+                                    "a100007label": "Cy3",
+                                    "a100014protocolref": "P-GSE16519-8",
+                                    "a100020commentprocesseddataarchivefile": "GLDS-9_microarray_E-GEOD-16519.processed.1.zip",
+                                    "a100000samplename": "GSM415020 extract 1",
+                                    "a100002materialtype": "total RNA",
+                                    "a100001extractname": "GSM415020 extract 1",
+                                    "a100012arraydesignref": "A-GEOD-8688",
+                                    "a100011hybridizationassayname": "GSM415020",
+                                    "a100004termaccessionnumber": "",
+                                    "a100008termsourceref": "",
+                                    "a100003termsourceref": "",
+                                    "a100016commentarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-16519/E-GEOD-16519.raw.1.zip",
+                                    "a100006labeledextractname": "GSM415020 LE 1",
+                                    "a100009termaccessionnumber": "",
+                                    "a100019derivedarraydatafile": "GLDS-9_microarray_GSM415020_sample_table.txt.gz",
+                                    "a100018normalizationname": "GSM415020_sample_table.txt norm",
+                                    "a100015arraydatafile": "GSM415020.txt",
+                                    "a100013protocolref": "P-GSE16519-7"
+                                },
+                                {
+                                    "a100005protocolref": "P-GSE16519-5",
+                                    "a100010protocolref": "P-GSE16519-6",
+                                    "a100017protocolref": "P-GSE16519-1",
+                                    "a100007label": "Cy5",
+                                    "a100014protocolref": "P-GSE16519-8",
+                                    "a100020commentprocesseddataarchivefile": "GLDS-9_microarray_E-GEOD-16519.processed.1.zip",
+                                    "a100000samplename": "GSM415019 extract 1",
+                                    "a100002materialtype": "total RNA",
+                                    "a100001extractname": "GSM415019 extract 1",
+                                    "a100012arraydesignref": "A-GEOD-8688",
+                                    "a100011hybridizationassayname": "GSM415019",
+                                    "a100004termaccessionnumber": "",
+                                    "a100008termsourceref": "",
+                                    "a100003termsourceref": "",
+                                    "a100016commentarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-16519/E-GEOD-16519.raw.1.zip",
+                                    "a100006labeledextractname": "GSM415019 LE 1",
+                                    "a100009termaccessionnumber": "",
+                                    "a100019derivedarraydatafile": "GLDS-9_microarray_GSM415019_sample_table.txt.gz",
+                                    "a100018normalizationname": "GSM415019_sample_table.txt norm",
+                                    "a100015arraydatafile": "GSM415019.txt",
+                                    "a100013protocolref": "P-GSE16519-7"
+                                },
+                                {
+                                    "a100005protocolref": "P-GSE16519-5",
+                                    "a100010protocolref": "P-GSE16519-6",
+                                    "a100017protocolref": "P-GSE16519-1",
+                                    "a100007label": "Cy3",
+                                    "a100014protocolref": "P-GSE16519-8",
+                                    "a100020commentprocesseddataarchivefile": "GLDS-9_microarray_E-GEOD-16519.processed.1.zip",
+                                    "a100000samplename": "GSM415018 extract 1",
+                                    "a100002materialtype": "total RNA",
+                                    "a100001extractname": "GSM415018 extract 1",
+                                    "a100012arraydesignref": "A-GEOD-8688",
+                                    "a100011hybridizationassayname": "GSM415018",
+                                    "a100004termaccessionnumber": "",
+                                    "a100008termsourceref": "",
+                                    "a100003termsourceref": "",
+                                    "a100016commentarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-16519/E-GEOD-16519.raw.1.zip",
+                                    "a100006labeledextractname": "GSM415018 LE 1",
+                                    "a100009termaccessionnumber": "",
+                                    "a100019derivedarraydatafile": "GLDS-9_microarray_GSM415018_sample_table.txt.gz",
+                                    "a100018normalizationname": "GSM415018_sample_table.txt norm",
+                                    "a100015arraydatafile": "GSM415018.txt",
+                                    "a100013protocolref": "P-GSE16519-7"
+                                },
+                                {
+                                    "a100005protocolref": "P-GSE16519-5",
+                                    "a100010protocolref": "P-GSE16519-6",
+                                    "a100017protocolref": "P-GSE16519-1",
+                                    "a100007label": "Cy5",
+                                    "a100014protocolref": "P-GSE16519-8",
+                                    "a100020commentprocesseddataarchivefile": "GLDS-9_microarray_E-GEOD-16519.processed.1.zip",
+                                    "a100000samplename": "GSM415017 extract 1",
+                                    "a100002materialtype": "total RNA",
+                                    "a100001extractname": "GSM415017 extract 1",
+                                    "a100012arraydesignref": "A-GEOD-8688",
+                                    "a100011hybridizationassayname": "GSM415017",
+                                    "a100004termaccessionnumber": "",
+                                    "a100008termsourceref": "",
+                                    "a100003termsourceref": "",
+                                    "a100016commentarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-16519/E-GEOD-16519.raw.1.zip",
+                                    "a100006labeledextractname": "GSM415017 LE 1",
+                                    "a100009termaccessionnumber": "",
+                                    "a100019derivedarraydatafile": "GLDS-9_microarray_GSM415017_sample_table.txt.gz",
+                                    "a100018normalizationname": "GSM415017_sample_table.txt norm",
+                                    "a100015arraydatafile": "GSM415017.txt",
+                                    "a100013protocolref": "P-GSE16519-7"
+                                },
+                                {
+                                    "a100005protocolref": "P-GSE16519-5",
+                                    "a100010protocolref": "P-GSE16519-6",
+                                    "a100017protocolref": "P-GSE16519-1",
+                                    "a100007label": "Cy3",
+                                    "a100014protocolref": "P-GSE16519-8",
+                                    "a100020commentprocesseddataarchivefile": "GLDS-9_microarray_E-GEOD-16519.processed.1.zip",
+                                    "a100000samplename": "GSM415016 extract 1",
+                                    "a100002materialtype": "total RNA",
+                                    "a100001extractname": "GSM415016 extract 1",
+                                    "a100012arraydesignref": "A-GEOD-8688",
+                                    "a100011hybridizationassayname": "GSM415016",
+                                    "a100004termaccessionnumber": "",
+                                    "a100008termsourceref": "",
+                                    "a100003termsourceref": "",
+                                    "a100016commentarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-16519/E-GEOD-16519.raw.1.zip",
+                                    "a100006labeledextractname": "GSM415016 LE 1",
+                                    "a100009termaccessionnumber": "",
+                                    "a100019derivedarraydatafile": "GLDS-9_microarray_GSM415016_sample_table.txt.gz",
+                                    "a100018normalizationname": "GSM415016_sample_table.txt norm",
+                                    "a100015arraydatafile": "GSM415016.txt",
+                                    "a100013protocolref": "P-GSE16519-7"
+                                },
+                                {
+                                    "a100005protocolref": "P-GSE16519-5",
+                                    "a100010protocolref": "P-GSE16519-6",
+                                    "a100017protocolref": "P-GSE16519-1",
+                                    "a100007label": "Cy5",
+                                    "a100014protocolref": "P-GSE16519-8",
+                                    "a100020commentprocesseddataarchivefile": "GLDS-9_microarray_E-GEOD-16519.processed.1.zip",
+                                    "a100000samplename": "GSM415015 extract 1",
+                                    "a100002materialtype": "total RNA",
+                                    "a100001extractname": "GSM415015 extract 1",
+                                    "a100012arraydesignref": "A-GEOD-8688",
+                                    "a100011hybridizationassayname": "GSM415015",
+                                    "a100004termaccessionnumber": "",
+                                    "a100008termsourceref": "",
+                                    "a100003termsourceref": "",
+                                    "a100016commentarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-16519/E-GEOD-16519.raw.1.zip",
+                                    "a100006labeledextractname": "GSM415015 LE 1",
+                                    "a100009termaccessionnumber": "",
+                                    "a100019derivedarraydatafile": "GLDS-9_microarray_GSM415015_sample_table.txt.gz",
+                                    "a100018normalizationname": "GSM415015_sample_table.txt norm",
+                                    "a100015arraydatafile": "GSM415015.txt",
+                                    "a100013protocolref": "P-GSE16519-7"
+                                }
+                            ],
+                            "header": [
+                                {
+                                    "width": 200,
+                                    "title": "Sample Name",
+                                    "field": "a100000samplename",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Extract Name",
+                                    "field": "a100001extractname",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Material Type",
+                                    "field": "a100002materialtype",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Protocol REF",
+                                    "field": "a100005protocolref",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Labeled Extract Name",
+                                    "field": "a100006labeledextractname",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Label",
+                                    "field": "a100007label",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Protocol REF",
+                                    "field": "a100010protocolref",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Hybridization Assay Name",
+                                    "field": "a100011hybridizationassayname",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Array Design REF",
+                                    "field": "a100012arraydesignref",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Protocol REF",
+                                    "field": "a100013protocolref",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Protocol REF",
+                                    "field": "a100014protocolref",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Array Data File",
+                                    "field": "a100015arraydatafile",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Comment:  ArrayExpress FTP file",
+                                    "field": "a100016commentarrayexpressftpfile",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Protocol REF",
+                                    "field": "a100017protocolref",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Normalization Name",
+                                    "field": "a100018normalizationname",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Derived Array Data File",
+                                    "field": "a100019derivedarraydatafile",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Comment:  Processed Data Archive File",
+                                    "field": "a100020commentprocesseddataarchivefile",
+                                    "encoded": false
+                                }
+                            ],
+                            "table": [
+                                {
+                                    "a100005protocolref": "P-GSE16519-5",
+                                    "a100010protocolref": "P-GSE16519-6",
+                                    "a100017protocolref": "P-GSE16519-1",
+                                    "a100007label": "Cy3",
+                                    "a100014protocolref": "P-GSE16519-8",
+                                    "a100015arraydatafile": "GSM415020.txt",
+                                    "a100000samplename": "GSM415020 extract 1",
+                                    "a100002materialtype": "total RNA",
+                                    "a100001extractname": "GSM415020 extract 1",
+                                    "a100012arraydesignref": "A-GEOD-8688",
+                                    "a100011hybridizationassayname": "GSM415020",
+                                    "a100020commentprocesseddataarchivefile": "GLDS-9_microarray_E-GEOD-16519.processed.1.zip",
+                                    "a100016commentarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-16519/E-GEOD-16519.raw.1.zip",
+                                    "a100006labeledextractname": "GSM415020 LE 1",
+                                    "a100019derivedarraydatafile": "GLDS-9_microarray_GSM415020_sample_table.txt.gz",
+                                    "a100018normalizationname": "GSM415020_sample_table.txt norm",
+                                    "a100013protocolref": "P-GSE16519-7"
+                                },
+                                {
+                                    "a100005protocolref": "P-GSE16519-5",
+                                    "a100010protocolref": "P-GSE16519-6",
+                                    "a100017protocolref": "P-GSE16519-1",
+                                    "a100007label": "Cy5",
+                                    "a100014protocolref": "P-GSE16519-8",
+                                    "a100015arraydatafile": "GSM415019.txt",
+                                    "a100000samplename": "GSM415019 extract 1",
+                                    "a100002materialtype": "total RNA",
+                                    "a100001extractname": "GSM415019 extract 1",
+                                    "a100012arraydesignref": "A-GEOD-8688",
+                                    "a100011hybridizationassayname": "GSM415019",
+                                    "a100020commentprocesseddataarchivefile": "GLDS-9_microarray_E-GEOD-16519.processed.1.zip",
+                                    "a100016commentarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-16519/E-GEOD-16519.raw.1.zip",
+                                    "a100006labeledextractname": "GSM415019 LE 1",
+                                    "a100019derivedarraydatafile": "GLDS-9_microarray_GSM415019_sample_table.txt.gz",
+                                    "a100018normalizationname": "GSM415019_sample_table.txt norm",
+                                    "a100013protocolref": "P-GSE16519-7"
+                                },
+                                {
+                                    "a100005protocolref": "P-GSE16519-5",
+                                    "a100010protocolref": "P-GSE16519-6",
+                                    "a100017protocolref": "P-GSE16519-1",
+                                    "a100007label": "Cy3",
+                                    "a100014protocolref": "P-GSE16519-8",
+                                    "a100015arraydatafile": "GSM415018.txt",
+                                    "a100000samplename": "GSM415018 extract 1",
+                                    "a100002materialtype": "total RNA",
+                                    "a100001extractname": "GSM415018 extract 1",
+                                    "a100012arraydesignref": "A-GEOD-8688",
+                                    "a100011hybridizationassayname": "GSM415018",
+                                    "a100020commentprocesseddataarchivefile": "GLDS-9_microarray_E-GEOD-16519.processed.1.zip",
+                                    "a100016commentarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-16519/E-GEOD-16519.raw.1.zip",
+                                    "a100006labeledextractname": "GSM415018 LE 1",
+                                    "a100019derivedarraydatafile": "GLDS-9_microarray_GSM415018_sample_table.txt.gz",
+                                    "a100018normalizationname": "GSM415018_sample_table.txt norm",
+                                    "a100013protocolref": "P-GSE16519-7"
+                                },
+                                {
+                                    "a100005protocolref": "P-GSE16519-5",
+                                    "a100010protocolref": "P-GSE16519-6",
+                                    "a100017protocolref": "P-GSE16519-1",
+                                    "a100007label": "Cy5",
+                                    "a100014protocolref": "P-GSE16519-8",
+                                    "a100015arraydatafile": "GSM415017.txt",
+                                    "a100000samplename": "GSM415017 extract 1",
+                                    "a100002materialtype": "total RNA",
+                                    "a100001extractname": "GSM415017 extract 1",
+                                    "a100012arraydesignref": "A-GEOD-8688",
+                                    "a100011hybridizationassayname": "GSM415017",
+                                    "a100020commentprocesseddataarchivefile": "GLDS-9_microarray_E-GEOD-16519.processed.1.zip",
+                                    "a100016commentarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-16519/E-GEOD-16519.raw.1.zip",
+                                    "a100006labeledextractname": "GSM415017 LE 1",
+                                    "a100019derivedarraydatafile": "GLDS-9_microarray_GSM415017_sample_table.txt.gz",
+                                    "a100018normalizationname": "GSM415017_sample_table.txt norm",
+                                    "a100013protocolref": "P-GSE16519-7"
+                                },
+                                {
+                                    "a100005protocolref": "P-GSE16519-5",
+                                    "a100010protocolref": "P-GSE16519-6",
+                                    "a100017protocolref": "P-GSE16519-1",
+                                    "a100007label": "Cy3",
+                                    "a100014protocolref": "P-GSE16519-8",
+                                    "a100015arraydatafile": "GSM415016.txt",
+                                    "a100000samplename": "GSM415016 extract 1",
+                                    "a100002materialtype": "total RNA",
+                                    "a100001extractname": "GSM415016 extract 1",
+                                    "a100012arraydesignref": "A-GEOD-8688",
+                                    "a100011hybridizationassayname": "GSM415016",
+                                    "a100020commentprocesseddataarchivefile": "GLDS-9_microarray_E-GEOD-16519.processed.1.zip",
+                                    "a100016commentarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-16519/E-GEOD-16519.raw.1.zip",
+                                    "a100006labeledextractname": "GSM415016 LE 1",
+                                    "a100019derivedarraydatafile": "GLDS-9_microarray_GSM415016_sample_table.txt.gz",
+                                    "a100018normalizationname": "GSM415016_sample_table.txt norm",
+                                    "a100013protocolref": "P-GSE16519-7"
+                                },
+                                {
+                                    "a100005protocolref": "P-GSE16519-5",
+                                    "a100010protocolref": "P-GSE16519-6",
+                                    "a100017protocolref": "P-GSE16519-1",
+                                    "a100007label": "Cy5",
+                                    "a100014protocolref": "P-GSE16519-8",
+                                    "a100015arraydatafile": "GSM415015.txt",
+                                    "a100000samplename": "GSM415015 extract 1",
+                                    "a100002materialtype": "total RNA",
+                                    "a100001extractname": "GSM415015 extract 1",
+                                    "a100012arraydesignref": "A-GEOD-8688",
+                                    "a100011hybridizationassayname": "GSM415015",
+                                    "a100020commentprocesseddataarchivefile": "GLDS-9_microarray_E-GEOD-16519.processed.1.zip",
+                                    "a100016commentarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-16519/E-GEOD-16519.raw.1.zip",
+                                    "a100006labeledextractname": "GSM415015 LE 1",
+                                    "a100019derivedarraydatafile": "GLDS-9_microarray_GSM415015_sample_table.txt.gz",
+                                    "a100018normalizationname": "GSM415015_sample_table.txt norm",
+                                    "a100013protocolref": "P-GSE16519-7"
+                                }
+                            ]
+                        }
+                    },
+                    "organisms": {
+                        "ontologies": {
+                            "homosapiens": {
+                                "definition": [],
+                                "synonym": [
+                                    "man"
+                                ],
+                                "links": {
+                                    "ui": "http://bioportal.bioontology.org/ontologies/NCBITAXON?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606",
+                                    "ancestors": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/ancestors",
+                                    "mappings": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/mappings",
+                                    "descendants": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/descendants",
+                                    "self": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606",
+                                    "tree": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/tree",
+                                    "instances": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/instances",
+                                    "parents": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/parents",
+                                    "notes": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/notes",
+                                    "@context": {
+                                        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+                                        "mappings": "http://data.bioontology.org/metadata/Mapping",
+                                        "descendants": "http://www.w3.org/2002/07/owl#Class",
+                                        "notes": "http://data.bioontology.org/metadata/Note",
+                                        "tree": "http://www.w3.org/2002/07/owl#Class",
+                                        "children": "http://www.w3.org/2002/07/owl#Class",
+                                        "instances": "http://data.bioontology.org/metadata/Instance",
+                                        "parents": "http://www.w3.org/2002/07/owl#Class",
+                                        "ui": "http://www.w3.org/2002/07/owl#Class",
+                                        "ontology": "http://data.bioontology.org/metadata/Ontology",
+                                        "self": "http://www.w3.org/2002/07/owl#Class"
+                                    },
+                                    "ontology": "http://data.bioontology.org/ontologies/NCBITAXON",
+                                    "children": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/children"
+                                },
+                                "semanticType": [
+                                    "http://purl.bioontology.org/ontology/STY/T016"
+                                ],
+                                "obsolete": false,
+                                "cui": [
+                                    "C0086418"
+                                ],
+                                "@context": {
+                                    "definition": "http://data.bioontology.org/metadata/skosdefinition",
+                                    "@vocab": "http://data.bioontology.org/metadata/",
+                                    "synonym": "http://data.bioontology.org/metadata/skossynonym",
+                                    "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+                                    "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+                                    "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+                                    "cui": "http://data.bioontology.org/metadata/umlscui"
+                                },
+                                "@id": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                "@type": "http://www.w3.org/2002/07/owl#Class",
+                                "prefLabel": "Homo sapiens"
+                            }
+                        },
+                        "links": {
+                            "homosapiens": "<a target=\"_blank\" href=\"http://purl.bioontology.org/ontology/NCBITAXON/9606\" title=\"man\" source=\"NCBITAXON\">Homo sapiens </a>"
+                        }
+                    }
+                },
+                "title": "",
+                "comments": [
+                    {
+                        "name": "Created with configuration",
+                        "value": ""
+                    },
+                    {
+                        "name": "Last Opened With Configuration",
+                        "value": ""
+                    },
+                    {
+                        "name": "Created With Configuration",
+                        "value": ""
+                    }
+                ],
+                "publicReleaseDate": "",
+                "submissionDate": "",
+                "identifier": "1424974840337",
+                "studies": [
+                    {
+                        "publicReleaseDate": "01-Apr-2007",
+                        "unitCategories": [],
+                        "description": "Transcriptional profiling of human lymphoblastoid TK6 cells comparing mock irradiaed cells resuspended in fresh untreated RPMI 1640 medium with cells resuspended in medium activated by exposure to 2.5 Gy HZE (1 GeV/amu iron ions accelerated at the NASA Space Research Laboratory (NSRL) of Brookhaven National Laboratory). Two-condition experiment, mock irradiated vs. cells exposed to activated medium. 3 biological replicates were independently grown and harvested during three different runs at the NSRL. One replicate per array.",
+                        "people": [
+                            {
+                                "fax": "",
+                                "firstName": "Sally",
+                                "roles": [
+                                    {
+                                        "annotationValue": "submitter",
+                                        "termAccession": "",
+                                        "termSource": ""
+                                    }
+                                ],
+                                "phone": "",
+                                "lastName": "Amundson",
+                                "comments": [
+                                    {
+                                        "name": "Study Person REF",
+                                        "value": ""
+                                    }
+                                ],
+                                "affiliation": "Columbia University",
+                                "address": "Center for Radiological Research, Columbia University, 630 W. 168th St, New York, NY, USA",
+                                "@id": "",
+                                "email": "saa2108@columbia.edu",
+                                "midInitials": ""
+                            },
+                            {
+                                "fax": "",
+                                "firstName": "Sally",
+                                "roles": [],
+                                "phone": "",
+                                "lastName": "Amundson",
+                                "comments": [
+                                    {
+                                        "name": "Study Person REF",
+                                        "value": ""
+                                    }
+                                ],
+                                "affiliation": "",
+                                "address": "",
+                                "@id": "",
+                                "email": "",
+                                "midInitials": "A"
+                            }
+                        ],
+                        "publications": [
+                            {
+                                "status": {
+                                    "annotationValue": "published",
+                                    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+                                    "termSource": "EFO"
+                                },
+                                "doi": "10.1667/RR2539.1",
+                                "title": "p53-independent downregulation of histone gene expression in human cell lines by high- and low-let radiation",
+                                "pubMedID": "21520998",
+                                "authorList": "Meador JA, Ghandhi SA, Amundson SA.",
+                                "link": "http://www.ncbi.nlm.nih.gov/pubmed/21520998"
+                            }
+                        ],
+                        "factors": [
+                            {
+                                "factorName": "Irradiated",
+                                "factorType": {
+                                    "annotationValue": "irradiation",
+                                    "termAccession": "http://purl.obolibrary.org/obo/OBI_0302889",
+                                    "termSource": "OBI"
+                                },
+                                "@id": ""
+                            }
+                        ],
+                        "comments": [
+                            {
+                                "name": "Funding",
+                                "value": "This work was supported by NASA grants NNJ04HF41G and NNX09AE95G."
+                            },
+                            {
+                                "name": "Mission Start",
+                                "value": ""
+                            },
+                            {
+                                "name": "Flight Program",
+                                "value": "NA"
+                            },
+                            {
+                                "name": "Project Link",
+                                "value": "http://lsda.jsc.nasa.gov/scripts/experiment/exper.aspx?exp_index=10327"
+                            },
+                            {
+                                "name": "Project Type",
+                                "value": "Ground Study"
+                            },
+                            {
+                                "name": "Study Grant Number",
+                                "value": "NNJ04HF41G and NNX09AE95G."
+                            },
+                            {
+                                "name": "Space Program",
+                                "value": "NASA"
+                            },
+                            {
+                                "name": "Project Identifier",
+                                "value": "NA"
+                            },
+                            {
+                                "name": "Study Funding Agency",
+                                "value": "NASA"
+                            },
+                            {
+                                "name": "Experiment Platform",
+                                "value": ""
+                            },
+                            {
+                                "name": "Data Source Accession",
+                                "value": "E-GEOD-16519"
+                            },
+                            {
+                                "name": "Mission Name",
+                                "value": ""
+                            },
+                            {
+                                "name": "Project Title",
+                                "value": "Functional Genomic and Signaling Responses to HZE Particle Radiation"
+                            },
+                            {
+                                "name": "Data Source Link",
+                                "value": "http://www.ebi.ac.uk/arrayexpress/experiments/E-GEOD-16519/"
+                            },
+                            {
+                                "name": "Mission Link",
+                                "value": ""
+                            },
+                            {
+                                "name": "Managing NASA Center",
+                                "value": "Johnson Space Center (JSC)"
+                            },
+                            {
+                                "name": "Acknowledgments",
+                                "value": "We thank the staff of the NASA Space Radiation Laboratory for dosimetry and assistance with 56Fe-ion irradiations and Jaeyong Ahn for technical assistance."
+                            },
+                            {
+                                "name": "Mission End",
+                                "value": ""
+                            }
+                        ],
+                        "filename": "s_E-GEOD-16519_study_samples.txt",
+                        "materials": {
+                            "sources": [
+                                {
+                                    "characteristics": [
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "lymphoblastoid",
+                                                "termAccession": "",
+                                                "termSource": ""
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "Homo sapiens",
+                                                "termAccession": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                                "termSource": "NCBITAXON"
+                                            }
+                                        }
+                                    ],
+                                    "@id": "",
+                                    "name": "source-GSM415020 1"
+                                },
+                                {
+                                    "characteristics": [
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "lymphoblastoid",
+                                                "termAccession": "",
+                                                "termSource": ""
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "Homo sapiens",
+                                                "termAccession": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                                "termSource": "NCBITAXON"
+                                            }
+                                        }
+                                    ],
+                                    "@id": "",
+                                    "name": "source-GSM415019 1"
+                                },
+                                {
+                                    "characteristics": [
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "lymphoblastoid",
+                                                "termAccession": "",
+                                                "termSource": ""
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "Homo sapiens",
+                                                "termAccession": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                                "termSource": "NCBITAXON"
+                                            }
+                                        }
+                                    ],
+                                    "@id": "",
+                                    "name": "source-GSM415015 1"
+                                },
+                                {
+                                    "characteristics": [
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "lymphoblastoid",
+                                                "termAccession": "",
+                                                "termSource": ""
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "Homo sapiens",
+                                                "termAccession": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                                "termSource": "NCBITAXON"
+                                            }
+                                        }
+                                    ],
+                                    "@id": "",
+                                    "name": "source-GSM415018 1"
+                                },
+                                {
+                                    "characteristics": [
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "lymphoblastoid",
+                                                "termAccession": "",
+                                                "termSource": ""
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "Homo sapiens",
+                                                "termAccession": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                                "termSource": "NCBITAXON"
+                                            }
+                                        }
+                                    ],
+                                    "@id": "",
+                                    "name": "source-GSM415016 1"
+                                },
+                                {
+                                    "characteristics": [
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "lymphoblastoid",
+                                                "termAccession": "",
+                                                "termSource": ""
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "Homo sapiens",
+                                                "termAccession": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                                "termSource": "NCBITAXON"
+                                            }
+                                        }
+                                    ],
+                                    "@id": "",
+                                    "name": "source-GSM415017 1"
+                                }
+                            ],
+                            "otherMaterials": [],
+                            "samples": [
+                                {
+                                    "characteristics": [],
+                                    "factorValues": [],
+                                    "@id": "",
+                                    "name": "sample-GSM415015 extract 1",
+                                    "derivesFrom": [
+                                        {
+                                            "@id": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "characteristics": [],
+                                    "factorValues": [],
+                                    "@id": "",
+                                    "name": "sample-GSM415017 extract 1",
+                                    "derivesFrom": [
+                                        {
+                                            "@id": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "characteristics": [],
+                                    "factorValues": [],
+                                    "@id": "",
+                                    "name": "sample-GSM415019 extract 1",
+                                    "derivesFrom": [
+                                        {
+                                            "@id": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "characteristics": [],
+                                    "factorValues": [],
+                                    "@id": "",
+                                    "name": "sample-GSM415020 extract 1",
+                                    "derivesFrom": [
+                                        {
+                                            "@id": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "characteristics": [],
+                                    "factorValues": [],
+                                    "@id": "",
+                                    "name": "sample-GSM415016 extract 1",
+                                    "derivesFrom": [
+                                        {
+                                            "@id": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "characteristics": [],
+                                    "factorValues": [],
+                                    "@id": "",
+                                    "name": "sample-GSM415018 extract 1",
+                                    "derivesFrom": [
+                                        {
+                                            "@id": ""
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "studyDesignDescriptors": [
+                            {
+                                "annotationValue": "microarray",
+                                "termAccession": "http://purl.obolibrary.org/obo/OBI_0400147",
+                                "termSource": "OBI"
+                            }
+                        ],
+                        "submissionDate": "",
+                        "assays": [
+                            {
+                                "technologyPlatform": "Compugen",
+                                "unitCategories": [],
+                                "technologyType": {
+                                    "annotationValue": "DNA microarray",
+                                    "termAccession": "http://purl.obolibrary.org/obo/OBI_0400148",
+                                    "termSource": "OBI"
+                                },
+                                "filename": "a_E-GEOD-16519_GeneChip_assay.txt",
+                                "materials": {
+                                    "otherMaterials": [
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "Cy5",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Labeled Extract Name",
+                                            "name": "labeledextract-GSM415015 LE 1"
+                                        },
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "total RNA",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Extract Name",
+                                            "name": "extract-GSM415020 extract 1"
+                                        },
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "Cy3",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Labeled Extract Name",
+                                            "name": "labeledextract-GSM415016 LE 1"
+                                        },
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "Cy5",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Labeled Extract Name",
+                                            "name": "labeledextract-GSM415019 LE 1"
+                                        },
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "total RNA",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Extract Name",
+                                            "name": "extract-GSM415015 extract 1"
+                                        },
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "Cy3",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Labeled Extract Name",
+                                            "name": "labeledextract-GSM415018 LE 1"
+                                        },
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "total RNA",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Extract Name",
+                                            "name": "extract-GSM415018 extract 1"
+                                        },
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "total RNA",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Extract Name",
+                                            "name": "extract-GSM415017 extract 1"
+                                        },
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "Cy3",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Labeled Extract Name",
+                                            "name": "labeledextract-GSM415020 LE 1"
+                                        },
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "Cy5",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Labeled Extract Name",
+                                            "name": "labeledextract-GSM415017 LE 1"
+                                        },
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "total RNA",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Extract Name",
+                                            "name": "extract-GSM415016 extract 1"
+                                        },
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "total RNA",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Extract Name",
+                                            "name": "extract-GSM415019 extract 1"
+                                        }
+                                    ],
+                                    "samples": []
+                                },
+                                "characteristicCategories": [
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    }
+                                ],
+                                "dataFiles": [
+                                    {
+                                        "@id": "",
+                                        "type": "Derived Array Data File",
+                                        "name": "GLDS-9_microarray_GSM415018_sample_table.txt.gz",
+                                        "comments": []
+                                    },
+                                    {
+                                        "@id": "",
+                                        "type": "Derived Array Data File",
+                                        "name": "GLDS-9_microarray_GSM415019_sample_table.txt.gz",
+                                        "comments": []
+                                    },
+                                    {
+                                        "@id": "",
+                                        "type": "Derived Array Data File",
+                                        "name": "GLDS-9_microarray_GSM415020_sample_table.txt.gz",
+                                        "comments": []
+                                    },
+                                    {
+                                        "@id": "",
+                                        "type": "Derived Array Data File",
+                                        "name": "GLDS-9_microarray_GSM415016_sample_table.txt.gz",
+                                        "comments": []
+                                    },
+                                    {
+                                        "@id": "",
+                                        "type": "Array Data File",
+                                        "name": "GSM415019.txt",
+                                        "comments": []
+                                    },
+                                    {
+                                        "@id": "",
+                                        "type": "Array Data File",
+                                        "name": "GSM415018.txt",
+                                        "comments": []
+                                    },
+                                    {
+                                        "@id": "",
+                                        "type": "Array Data File",
+                                        "name": "GSM415020.txt",
+                                        "comments": []
+                                    },
+                                    {
+                                        "@id": "",
+                                        "type": "Derived Array Data File",
+                                        "name": "GLDS-9_microarray_GSM415015_sample_table.txt.gz",
+                                        "comments": []
+                                    },
+                                    {
+                                        "@id": "",
+                                        "type": "Array Data File",
+                                        "name": "GSM415015.txt",
+                                        "comments": []
+                                    },
+                                    {
+                                        "@id": "",
+                                        "type": "Array Data File",
+                                        "name": "GSM415016.txt",
+                                        "comments": []
+                                    },
+                                    {
+                                        "@id": "",
+                                        "type": "Array Data File",
+                                        "name": "GSM415017.txt",
+                                        "comments": []
+                                    },
+                                    {
+                                        "@id": "",
+                                        "type": "Derived Array Data File",
+                                        "name": "GLDS-9_microarray_GSM415017_sample_table.txt.gz",
+                                        "comments": []
+                                    }
+                                ],
+                                "measurementType": {
+                                    "annotationValue": "transcription profiling",
+                                    "termAccession": "http://purl.obolibrary.org/obo/OBI_0000424",
+                                    "termSource": "OBI"
+                                },
+                                "@id": "",
+                                "processSequence": [
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "name": "GSM415019",
+                                        "parameterValues": [
+                                            {
+                                                "category": {
+                                                    "@id": ""
+                                                },
+                                                "value": "A-GEOD-8688"
+                                            }
+                                        ],
+                                        "outputs": [],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [],
+                                        "performer": "",
+                                        "parameterValues": [],
+                                        "outputs": [],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            },
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "parameterValues": [],
+                                        "outputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "name": "GSM415017_sample_table.txt norm",
+                                        "parameterValues": [],
+                                        "outputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "name": "GSM415017",
+                                        "parameterValues": [
+                                            {
+                                                "category": {
+                                                    "@id": ""
+                                                },
+                                                "value": "A-GEOD-8688"
+                                            }
+                                        ],
+                                        "outputs": [],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [],
+                                        "performer": "",
+                                        "parameterValues": [],
+                                        "outputs": [],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            },
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "parameterValues": [],
+                                        "outputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "name": "GSM415015",
+                                        "parameterValues": [
+                                            {
+                                                "category": {
+                                                    "@id": ""
+                                                },
+                                                "value": "A-GEOD-8688"
+                                            }
+                                        ],
+                                        "outputs": [],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [],
+                                        "performer": "",
+                                        "parameterValues": [],
+                                        "outputs": [],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [],
+                                        "performer": "",
+                                        "parameterValues": [],
+                                        "outputs": [],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "name": "GSM415019_sample_table.txt norm",
+                                        "parameterValues": [],
+                                        "outputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [],
+                                        "performer": "",
+                                        "parameterValues": [],
+                                        "outputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [],
+                                        "performer": "",
+                                        "parameterValues": [],
+                                        "outputs": [],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            },
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "parameterValues": [],
+                                        "outputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "name": "GSM415020",
+                                        "parameterValues": [
+                                            {
+                                                "category": {
+                                                    "@id": ""
+                                                },
+                                                "value": "A-GEOD-8688"
+                                            }
+                                        ],
+                                        "outputs": [],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [],
+                                        "performer": "",
+                                        "parameterValues": [],
+                                        "outputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            },
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "parameterValues": [],
+                                        "outputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [],
+                                        "performer": "",
+                                        "parameterValues": [],
+                                        "outputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [],
+                                        "performer": "",
+                                        "parameterValues": [],
+                                        "outputs": [],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [],
+                                        "performer": "",
+                                        "parameterValues": [],
+                                        "outputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "name": "GSM415020_sample_table.txt norm",
+                                        "parameterValues": [],
+                                        "outputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            },
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "parameterValues": [],
+                                        "outputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "name": "GSM415015_sample_table.txt norm",
+                                        "parameterValues": [],
+                                        "outputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "name": "GSM415018",
+                                        "parameterValues": [
+                                            {
+                                                "category": {
+                                                    "@id": ""
+                                                },
+                                                "value": "A-GEOD-8688"
+                                            }
+                                        ],
+                                        "outputs": [],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [],
+                                        "performer": "",
+                                        "parameterValues": [],
+                                        "outputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "name": "GSM415016",
+                                        "parameterValues": [
+                                            {
+                                                "category": {
+                                                    "@id": ""
+                                                },
+                                                "value": "A-GEOD-8688"
+                                            }
+                                        ],
+                                        "outputs": [],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "name": "GSM415016_sample_table.txt norm",
+                                        "parameterValues": [],
+                                        "outputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [],
+                                        "performer": "",
+                                        "parameterValues": [],
+                                        "outputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            },
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "parameterValues": [],
+                                        "outputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "name": "GSM415018_sample_table.txt norm",
+                                        "parameterValues": [],
+                                        "outputs": [
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    }
+                                ]
+                            }
+                        ],
+                        "characteristicCategories": [
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "cell type",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "Organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "cell type",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "Organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "cell type",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "Organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "cell type",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "Organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "cell type",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "Organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "cell type",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "Organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "cell type",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "Organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "cell type",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "Organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "cell type",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "Organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "cell type",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "Organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "cell type",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "Organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "cell type",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "Organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            }
+                        ],
+                        "title": "Response of human lymphoblastoid cells to activated medium",
+                        "identifier": "E-GEOD-16519",
+                        "@id": "",
+                        "protocols": [
+                            {
+                                "description": "",
+                                "parameters": [],
+                                "protocolType": {
+                                    "annotationValue": ""
+                                },
+                                "uri": "",
+                                "version": "",
+                                "components": [],
+                                "@id": "",
+                                "name": "unknown"
+                            },
+                            {
+                                "description": "ID_REF = <br>VALUE = Mean red and green background subtracted intensities for each feature were adjusted using the ratio used by the ArraySuite program to calculate the calibrated ratio, and then imported into BRB Array Tools 3.7.0, log2 transformed and median-normalized. The summary table excludes features with intensity <250 or low overall ArraySuite quality metrics (Q<0.3).",
+                                "parameters": [],
+                                "protocolType": {
+                                    "annotationValue": "bioassay_data_transformation",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                },
+                                "uri": "",
+                                "version": "",
+                                "components": [],
+                                "@id": "",
+                                "name": "P-GSE16519-1"
+                            },
+                            {
+                                "description": "Hybridization was carried out with active mixing using the MAUI Hybridization System (BioMicro Systems, Salt Lake City, UT) for 16 hours in Deposition Hybridization Buffer (Agilent) at 65oC in the presence of the blockers human CoT1, yeast tRNA and poly dA.  Hybridized slides were washed at room temperature once in 0.5X SSC, 0.01% SDS for 5 minutes and again in 0.06X SSC for 5 minutes.",
+                                "parameters": [],
+                                "protocolType": {
+                                    "annotationValue": "hybridization",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                },
+                                "uri": "",
+                                "version": "",
+                                "components": [],
+                                "@id": "",
+                                "name": "P-GSE16519-6"
+                            },
+                            {
+                                "description": "TK6 cells were maintained in exponential growth at densities of 1-10 x 10E5 cells/ml in RPMI 1640 medium supplemented with 10% heat-inactivated (56oC for 45 minutes) fetal calf serum and 100 U/ml penicillin and 100 \u0152\u00bag/ml streptomycin in a humidified, 5% CO2 atmosphere in a 37oC incubator.",
+                                "parameters": [],
+                                "protocolType": {
+                                    "annotationValue": "grow",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                },
+                                "uri": "",
+                                "version": "",
+                                "components": [],
+                                "@id": "",
+                                "name": "P-GSE16519-3"
+                            },
+                            {
+                                "description": "Images were processed using ArraySuite 2.1 extensions in the IPLab program (Scanalytics Inc., Fairfax, VA) as described in Chen et al., 2002 (PMID: 12217912).",
+                                "parameters": [],
+                                "protocolType": {
+                                    "annotationValue": "feature_extraction",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                },
+                                "uri": "",
+                                "version": "",
+                                "components": [],
+                                "@id": "",
+                                "name": "P-GSE16519-8"
+                            },
+                            {
+                                "description": "Slides were scanned on an Agilent Microarray Scanner, 100% PMT voltage, 10 uM resolution scans.",
+                                "parameters": [],
+                                "protocolType": {
+                                    "annotationValue": "image_aquisition",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                },
+                                "uri": "",
+                                "version": "",
+                                "components": [],
+                                "@id": "",
+                                "name": "P-GSE16519-7"
+                            },
+                            {
+                                "description": "HZE particle irradiation was performed at the NASA Space Radiation Laboratory (NSRL) at Brookhaven National Laboratory.  Exponentially growing cells were concentrated by centrifugation and exposed to graded doses of 1 GeV/amu 56Fe ions (150 keV/\u0152\u00bam) in a volume of 10 ml per culture point to limit the amount of medium activated during the irradiation.  Dosimetry was performed by the NSRL Physics Group.  Tubes containing the cells were placed perpendicular to the beam in the center of the field, where the variation in fluence was <5%. Control cultures were prepared in the same way and mock irradiated.  An activated-medium control was prepared by irradiating 10 ml of medium without cells to the highest dose used (2.5 Gy).  Immediately after irradiation, medium was added to bring the cells to normal culture densities (4-5 x 105cells/ml).  The cells for the activated control were resuspended in the activated medium prior to addition of the remaining medium.",
+                                "parameters": [],
+                                "protocolType": {
+                                    "annotationValue": "specified_biomaterial_action",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                },
+                                "uri": "",
+                                "version": "",
+                                "components": [],
+                                "@id": "",
+                                "name": "P-GSE16519-2"
+                            },
+                            {
+                                "description": "RNA was extracted using a modified guanidine thiocyanate method, (Chomczynski and Sacchi, 1987, PMID: 2440339) followed by purification with RNeasy columns (Qiagen, Valencia, CA).  RNA samples were quantified using a Nanodrop spectrophotometer and monitored for quality using an Agilent Bioanalyzer prior to labeling for microarray analysis.",
+                                "parameters": [],
+                                "protocolType": {
+                                    "annotationValue": "nucleic_acid_extraction",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                },
+                                "uri": "",
+                                "version": "",
+                                "components": [],
+                                "@id": "",
+                                "name": "P-GSE16519-4"
+                            },
+                            {
+                                "description": "Fluorescently labeled cDNA was prepared from mock-irradiated control and activated medium control whole-cell RNA by a single round of reverse transcription (BRL Superscript II) in the presence of aminoallyl dUTP (Sigma-Aldrich), followed by coupling to monofunctional NHS-ester Cy3 or Cy5 dye (Amersham) (Amundson and Fornace, 2004. PMID:14970650)",
+                                "parameters": [],
+                                "protocolType": {
+                                    "annotationValue": "labeling",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                },
+                                "uri": "",
+                                "version": "",
+                                "components": [],
+                                "@id": "",
+                                "name": "P-GSE16519-5"
+                            }
+                        ],
+                        "processSequence": [
+                            {
+                                "executesProtocol": {
+                                    "@id": ""
+                                },
+                                "inputs": [
+                                    {
+                                        "@id": ""
+                                    }
+                                ],
+                                "performer": "",
+                                "parameterValues": [],
+                                "outputs": [
+                                    {
+                                        "@id": ""
+                                    }
+                                ],
+                                "comments": [],
+                                "date": "",
+                                "@id": ""
+                            },
+                            {
+                                "executesProtocol": {
+                                    "@id": ""
+                                },
+                                "inputs": [
+                                    {
+                                        "@id": ""
+                                    }
+                                ],
+                                "performer": "",
+                                "parameterValues": [],
+                                "outputs": [
+                                    {
+                                        "@id": ""
+                                    }
+                                ],
+                                "comments": [],
+                                "date": "",
+                                "@id": ""
+                            },
+                            {
+                                "executesProtocol": {
+                                    "@id": ""
+                                },
+                                "inputs": [
+                                    {
+                                        "@id": ""
+                                    }
+                                ],
+                                "performer": "",
+                                "parameterValues": [],
+                                "outputs": [
+                                    {
+                                        "@id": ""
+                                    }
+                                ],
+                                "comments": [],
+                                "date": "",
+                                "@id": ""
+                            },
+                            {
+                                "executesProtocol": {
+                                    "@id": ""
+                                },
+                                "inputs": [
+                                    {
+                                        "@id": ""
+                                    }
+                                ],
+                                "performer": "",
+                                "parameterValues": [],
+                                "outputs": [
+                                    {
+                                        "@id": ""
+                                    }
+                                ],
+                                "comments": [],
+                                "date": "",
+                                "@id": ""
+                            },
+                            {
+                                "executesProtocol": {
+                                    "@id": ""
+                                },
+                                "inputs": [
+                                    {
+                                        "@id": ""
+                                    }
+                                ],
+                                "performer": "",
+                                "parameterValues": [],
+                                "outputs": [
+                                    {
+                                        "@id": ""
+                                    }
+                                ],
+                                "comments": [],
+                                "date": "",
+                                "@id": ""
+                            },
+                            {
+                                "executesProtocol": {
+                                    "@id": ""
+                                },
+                                "inputs": [
+                                    {
+                                        "@id": ""
+                                    }
+                                ],
+                                "performer": "",
+                                "parameterValues": [],
+                                "outputs": [
+                                    {
+                                        "@id": ""
+                                    }
+                                ],
+                                "comments": [],
+                                "date": "",
+                                "@id": ""
+                            }
+                        ]
+                    }
+                ],
+                "publications": []
+            }
+        }
+    },
+    "success": true
+}

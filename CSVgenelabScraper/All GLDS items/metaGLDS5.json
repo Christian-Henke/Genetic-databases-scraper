@@ -1,0 +1,2301 @@
+{
+    "hits": 1,
+    "input": "5",
+    "study": {
+        "GLDS-5": {
+            "isa2json": {
+                "ontologySourceReferences": [
+                    {
+                        "version": "2",
+                        "description": "National Center for Biotechnology Information (NCBI) Organismal Classification",
+                        "file": "http://data.bioontology.org/ontologies/NCBITAXON",
+                        "name": "NCBITAXON"
+                    },
+                    {
+                        "version": "21",
+                        "description": "Ontology for Biomedical Investigations",
+                        "file": "http://data.bioontology.org/ontologies/OBI",
+                        "name": "OBI"
+                    },
+                    {
+                        "version": "111",
+                        "description": "Experimental Factor Ontology",
+                        "file": "http://data.bioontology.org/ontologies/EFO",
+                        "name": "EFO"
+                    },
+                    {
+                        "version": "5",
+                        "description": "Medical Subject Headings",
+                        "file": "http://data.bioontology.org/ontologies/MESH",
+                        "name": "MESH"
+                    },
+                    {
+                        "version": "",
+                        "description": "",
+                        "file": "",
+                        "name": ""
+                    }
+                ],
+                "description": "",
+                "people": [],
+                "additionalInformation": {
+                    "description": {
+                        "assays": [
+                            {
+                                "Device Platform": "Affymetrix",
+                                "Device Type": "<a target=\"_blank\" href=\"http://purl.obolibrary.org/obo/OBI_0400148\" title=\"A DNA-microarray is a microarray that is used as a physical 2D immobilisation matrix for DNA sequences. DNA microarray-bound DNA fragments are used as targets for a hybridising probed sample. DNA Chip\" source=\"OBI\">DNA microarray</a>",
+                                "Assay Type": "<a target=\"_blank\" href=\"http://purl.obolibrary.org/obo/OBI_0000424\" title=\"An assay that determines gene expression and transcription activity using ribonucleic acids collected from a material entity. gene expression profiling, transcription profiling\" source=\"OBI\">transcription profiling</a>"
+                            }
+                        ],
+                        "factors": [
+                            {
+                                "Ontology: Concept": "<a target=\"_blank\" href=\"http://purl.bioontology.org/ontology/MESH/D018474\" title=\"Condition under normal Earth gravity where the force of gravity itself is not actually altered but its influence or effect may be modified and studied. (From ASGSB Bull 1992;5(2):27) Models, Weightlessness\" source=\"MESH\">Weightlessness Simulation</a>",
+                                "factor": "simulated microgravity"
+                            }
+                        ]
+                    },
+                    "samples": {
+                        "s_E-GEOD-4209_study_samples-txt": {
+                            "raw": [
+                                {
+                                    "a100003termaccessionnumber": "",
+                                    "a100008factorvaluesimulatedmicrogravity": "normal gravity",
+                                    "a100002termsourceref": "",
+                                    "a100005termsourceref": "NCBITAXON",
+                                    "a100010termaccessionnumber": "",
+                                    "a100006termaccessionnumber": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                    "a100000sourcename": "GSM96146",
+                                    "a100007samplename": "GSM96146 sample",
+                                    "a100001characteristicscelltype": "T-lymphocytes",
+                                    "a100004characteristicsorganism": "Homo sapiens",
+                                    "a100009termsourceref": ""
+                                },
+                                {
+                                    "a100003termaccessionnumber": "",
+                                    "a100008factorvaluesimulatedmicrogravity": "modeled microgravity",
+                                    "a100002termsourceref": "",
+                                    "a100005termsourceref": "NCBITAXON",
+                                    "a100010termaccessionnumber": "",
+                                    "a100006termaccessionnumber": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                    "a100000sourcename": "GSM96147",
+                                    "a100007samplename": "GSM96147 sample",
+                                    "a100001characteristicscelltype": "T-lymphocytes",
+                                    "a100004characteristicsorganism": "Homo sapiens",
+                                    "a100009termsourceref": ""
+                                },
+                                {
+                                    "a100003termaccessionnumber": "",
+                                    "a100008factorvaluesimulatedmicrogravity": "modeled microgravity",
+                                    "a100002termsourceref": "",
+                                    "a100005termsourceref": "NCBITAXON",
+                                    "a100010termaccessionnumber": "",
+                                    "a100006termaccessionnumber": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                    "a100000sourcename": "GSM96151",
+                                    "a100007samplename": "GSM96151 sample",
+                                    "a100001characteristicscelltype": "T-lymphocytes",
+                                    "a100004characteristicsorganism": "Homo sapiens",
+                                    "a100009termsourceref": ""
+                                },
+                                {
+                                    "a100003termaccessionnumber": "",
+                                    "a100008factorvaluesimulatedmicrogravity": "normal gravity",
+                                    "a100002termsourceref": "",
+                                    "a100005termsourceref": "NCBITAXON",
+                                    "a100010termaccessionnumber": "",
+                                    "a100006termaccessionnumber": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                    "a100000sourcename": "GSM96148",
+                                    "a100007samplename": "GSM96148 sample",
+                                    "a100001characteristicscelltype": "T-lymphocytes",
+                                    "a100004characteristicsorganism": "Homo sapiens",
+                                    "a100009termsourceref": ""
+                                },
+                                {
+                                    "a100003termaccessionnumber": "",
+                                    "a100008factorvaluesimulatedmicrogravity": "normal gravity",
+                                    "a100002termsourceref": "",
+                                    "a100005termsourceref": "NCBITAXON",
+                                    "a100010termaccessionnumber": "",
+                                    "a100006termaccessionnumber": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                    "a100000sourcename": "GSM96150",
+                                    "a100007samplename": "GSM96150 sample",
+                                    "a100001characteristicscelltype": "T-lymphocytes",
+                                    "a100004characteristicsorganism": "Homo sapiens",
+                                    "a100009termsourceref": ""
+                                },
+                                {
+                                    "a100003termaccessionnumber": "",
+                                    "a100008factorvaluesimulatedmicrogravity": "modeled microgravity",
+                                    "a100002termsourceref": "",
+                                    "a100005termsourceref": "NCBITAXON",
+                                    "a100010termaccessionnumber": "",
+                                    "a100006termaccessionnumber": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                    "a100000sourcename": "GSM96149",
+                                    "a100007samplename": "GSM96149 sample",
+                                    "a100001characteristicscelltype": "T-lymphocytes",
+                                    "a100004characteristicsorganism": "Homo sapiens",
+                                    "a100009termsourceref": ""
+                                }
+                            ],
+                            "header": [
+                                {
+                                    "width": 200,
+                                    "title": "Source Name",
+                                    "field": "a100000sourcename",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Characteristics : CellType",
+                                    "field": "a100001characteristicscelltype",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Characteristics: organism",
+                                    "field": "a100004characteristicsorganism",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Sample Name",
+                                    "field": "a100007samplename",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Factor Value: simulated microgravity",
+                                    "field": "a100008factorvaluesimulatedmicrogravity",
+                                    "encoded": false
+                                }
+                            ],
+                            "table": [
+                                {
+                                    "a100001characteristicscelltype": "T-lymphocytes",
+                                    "a100004characteristicsorganism": "<a target=\"_blank\" href=\"http://purl.bioontology.org/ontology/NCBITAXON/9606\" title=\"man\" source=\"NCBITAXON\">Homo sapiens </a>",
+                                    "a100008factorvaluesimulatedmicrogravity": "normal gravity",
+                                    "a100000sourcename": "GSM96146",
+                                    "a100007samplename": "GSM96146 sample"
+                                },
+                                {
+                                    "a100001characteristicscelltype": "T-lymphocytes",
+                                    "a100004characteristicsorganism": "<a target=\"_blank\" href=\"http://purl.bioontology.org/ontology/NCBITAXON/9606\" title=\"man\" source=\"NCBITAXON\">Homo sapiens </a>",
+                                    "a100008factorvaluesimulatedmicrogravity": "modeled microgravity",
+                                    "a100000sourcename": "GSM96147",
+                                    "a100007samplename": "GSM96147 sample"
+                                },
+                                {
+                                    "a100001characteristicscelltype": "T-lymphocytes",
+                                    "a100004characteristicsorganism": "<a target=\"_blank\" href=\"http://purl.bioontology.org/ontology/NCBITAXON/9606\" title=\"man\" source=\"NCBITAXON\">Homo sapiens </a>",
+                                    "a100008factorvaluesimulatedmicrogravity": "modeled microgravity",
+                                    "a100000sourcename": "GSM96151",
+                                    "a100007samplename": "GSM96151 sample"
+                                },
+                                {
+                                    "a100001characteristicscelltype": "T-lymphocytes",
+                                    "a100004characteristicsorganism": "<a target=\"_blank\" href=\"http://purl.bioontology.org/ontology/NCBITAXON/9606\" title=\"man\" source=\"NCBITAXON\">Homo sapiens </a>",
+                                    "a100008factorvaluesimulatedmicrogravity": "normal gravity",
+                                    "a100000sourcename": "GSM96148",
+                                    "a100007samplename": "GSM96148 sample"
+                                },
+                                {
+                                    "a100001characteristicscelltype": "T-lymphocytes",
+                                    "a100004characteristicsorganism": "<a target=\"_blank\" href=\"http://purl.bioontology.org/ontology/NCBITAXON/9606\" title=\"man\" source=\"NCBITAXON\">Homo sapiens </a>",
+                                    "a100008factorvaluesimulatedmicrogravity": "normal gravity",
+                                    "a100000sourcename": "GSM96150",
+                                    "a100007samplename": "GSM96150 sample"
+                                },
+                                {
+                                    "a100001characteristicscelltype": "T-lymphocytes",
+                                    "a100004characteristicsorganism": "<a target=\"_blank\" href=\"http://purl.bioontology.org/ontology/NCBITAXON/9606\" title=\"man\" source=\"NCBITAXON\">Homo sapiens </a>",
+                                    "a100008factorvaluesimulatedmicrogravity": "modeled microgravity",
+                                    "a100000sourcename": "GSM96149",
+                                    "a100007samplename": "GSM96149 sample"
+                                }
+                            ]
+                        }
+                    },
+                    "ontologies": {
+                        "http://purl-bioontology-org/ontology/MESH/D018474": {
+                            "definition": [
+                                "Condition under normal Earth gravity where the force of gravity itself is not actually altered but its influence or effect may be modified and studied. (From ASGSB Bull 1992;5(2):27)"
+                            ],
+                            "synonym": [
+                                "Models, Weightlessness"
+                            ],
+                            "links": {
+                                "ui": "http://bioportal.bioontology.org/ontologies/MESH?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FMESH%2FD018474",
+                                "ancestors": "http://data.bioontology.org/ontologies/MESH/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FMESH%2FD018474/ancestors",
+                                "mappings": "http://data.bioontology.org/ontologies/MESH/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FMESH%2FD018474/mappings",
+                                "descendants": "http://data.bioontology.org/ontologies/MESH/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FMESH%2FD018474/descendants",
+                                "self": "http://data.bioontology.org/ontologies/MESH/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FMESH%2FD018474",
+                                "tree": "http://data.bioontology.org/ontologies/MESH/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FMESH%2FD018474/tree",
+                                "instances": "http://data.bioontology.org/ontologies/MESH/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FMESH%2FD018474/instances",
+                                "parents": "http://data.bioontology.org/ontologies/MESH/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FMESH%2FD018474/parents",
+                                "notes": "http://data.bioontology.org/ontologies/MESH/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FMESH%2FD018474/notes",
+                                "@context": {
+                                    "ancestors": "http://www.w3.org/2002/07/owl#Class",
+                                    "mappings": "http://data.bioontology.org/metadata/Mapping",
+                                    "descendants": "http://www.w3.org/2002/07/owl#Class",
+                                    "notes": "http://data.bioontology.org/metadata/Note",
+                                    "tree": "http://www.w3.org/2002/07/owl#Class",
+                                    "children": "http://www.w3.org/2002/07/owl#Class",
+                                    "instances": "http://data.bioontology.org/metadata/Instance",
+                                    "parents": "http://www.w3.org/2002/07/owl#Class",
+                                    "ui": "http://www.w3.org/2002/07/owl#Class",
+                                    "ontology": "http://data.bioontology.org/metadata/Ontology",
+                                    "self": "http://www.w3.org/2002/07/owl#Class"
+                                },
+                                "ontology": "http://data.bioontology.org/ontologies/MESH",
+                                "children": "http://data.bioontology.org/ontologies/MESH/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FMESH%2FD018474/children"
+                            },
+                            "semanticType": [
+                                "http://purl.bioontology.org/ontology/STY/T068",
+                                "http://purl.bioontology.org/ontology/STY/T075"
+                            ],
+                            "obsolete": false,
+                            "cui": [
+                                "C0282475",
+                                "C0887948",
+                                "C0242682"
+                            ],
+                            "@context": {
+                                "definition": "http://data.bioontology.org/metadata/skosdefinition",
+                                "@vocab": "http://data.bioontology.org/metadata/",
+                                "synonym": "http://data.bioontology.org/metadata/skossynonym",
+                                "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+                                "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+                                "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+                                "cui": "http://data.bioontology.org/metadata/umlscui"
+                            },
+                            "@id": "http://purl.bioontology.org/ontology/MESH/D018474",
+                            "@type": "http://www.w3.org/2002/07/owl#Class",
+                            "prefLabel": "Weightlessness Simulation"
+                        },
+                        "http://purl-obolibrary-org/obo/OBI_0000424": {
+                            "definition": [
+                                "An assay that determines gene expression and transcription activity using ribonucleic acids collected from a material entity."
+                            ],
+                            "synonym": [
+                                "gene expression profiling",
+                                "transcription profiling"
+                            ],
+                            "links": {
+                                "ui": "http://bioportal.bioontology.org/ontologies/OBI?p=classes&conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0000424",
+                                "ancestors": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0000424/ancestors",
+                                "mappings": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0000424/mappings",
+                                "descendants": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0000424/descendants",
+                                "self": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0000424",
+                                "tree": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0000424/tree",
+                                "instances": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0000424/instances",
+                                "parents": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0000424/parents",
+                                "notes": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0000424/notes",
+                                "@context": {
+                                    "ancestors": "http://www.w3.org/2002/07/owl#Class",
+                                    "mappings": "http://data.bioontology.org/metadata/Mapping",
+                                    "descendants": "http://www.w3.org/2002/07/owl#Class",
+                                    "notes": "http://data.bioontology.org/metadata/Note",
+                                    "tree": "http://www.w3.org/2002/07/owl#Class",
+                                    "children": "http://www.w3.org/2002/07/owl#Class",
+                                    "instances": "http://data.bioontology.org/metadata/Instance",
+                                    "parents": "http://www.w3.org/2002/07/owl#Class",
+                                    "ui": "http://www.w3.org/2002/07/owl#Class",
+                                    "ontology": "http://data.bioontology.org/metadata/Ontology",
+                                    "self": "http://www.w3.org/2002/07/owl#Class"
+                                },
+                                "ontology": "http://data.bioontology.org/ontologies/OBI",
+                                "children": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0000424/children"
+                            },
+                            "semanticType": [],
+                            "obsolete": false,
+                            "cui": [],
+                            "@context": {
+                                "definition": "http://data.bioontology.org/metadata/skosdefinition",
+                                "@vocab": "http://data.bioontology.org/metadata/",
+                                "synonym": "http://data.bioontology.org/metadata/skossynonym",
+                                "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+                                "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+                                "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+                                "cui": "http://data.bioontology.org/metadata/umlscui"
+                            },
+                            "@id": "http://purl.obolibrary.org/obo/OBI_0000424",
+                            "@type": "http://www.w3.org/2002/07/owl#Class",
+                            "prefLabel": "transcription profiling assay"
+                        },
+                        "http://purl-obolibrary-org/obo/OBI_0400148": {
+                            "definition": [
+                                "A DNA-microarray is a microarray that is used as a physical 2D immobilisation matrix for DNA sequences. DNA microarray-bound DNA fragments are used as targets for a hybridising probed sample."
+                            ],
+                            "synonym": [
+                                "DNA Chip"
+                            ],
+                            "links": {
+                                "ui": "http://bioportal.bioontology.org/ontologies/OBI?p=classes&conceptid=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0400148",
+                                "ancestors": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0400148/ancestors",
+                                "mappings": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0400148/mappings",
+                                "descendants": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0400148/descendants",
+                                "self": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0400148",
+                                "tree": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0400148/tree",
+                                "instances": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0400148/instances",
+                                "parents": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0400148/parents",
+                                "notes": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0400148/notes",
+                                "@context": {
+                                    "ancestors": "http://www.w3.org/2002/07/owl#Class",
+                                    "mappings": "http://data.bioontology.org/metadata/Mapping",
+                                    "descendants": "http://www.w3.org/2002/07/owl#Class",
+                                    "notes": "http://data.bioontology.org/metadata/Note",
+                                    "tree": "http://www.w3.org/2002/07/owl#Class",
+                                    "children": "http://www.w3.org/2002/07/owl#Class",
+                                    "instances": "http://data.bioontology.org/metadata/Instance",
+                                    "parents": "http://www.w3.org/2002/07/owl#Class",
+                                    "ui": "http://www.w3.org/2002/07/owl#Class",
+                                    "ontology": "http://data.bioontology.org/metadata/Ontology",
+                                    "self": "http://www.w3.org/2002/07/owl#Class"
+                                },
+                                "ontology": "http://data.bioontology.org/ontologies/OBI",
+                                "children": "http://data.bioontology.org/ontologies/OBI/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0400148/children"
+                            },
+                            "semanticType": [],
+                            "obsolete": false,
+                            "cui": [],
+                            "@context": {
+                                "@vocab": "http://data.bioontology.org/metadata/"
+                            },
+                            "@id": "http://purl.obolibrary.org/obo/OBI_0400148",
+                            "@type": "http://www.w3.org/2002/07/owl#Class",
+                            "prefLabel": "DNA microarray"
+                        },
+                        "httppurlbioontologyorgontologyNCBITAXON9606": {
+                            "definition": [],
+                            "synonym": [
+                                "man"
+                            ],
+                            "links": {
+                                "ui": "http://bioportal.bioontology.org/ontologies/NCBITAXON?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606",
+                                "ancestors": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/ancestors",
+                                "mappings": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/mappings",
+                                "descendants": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/descendants",
+                                "self": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606",
+                                "tree": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/tree",
+                                "instances": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/instances",
+                                "parents": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/parents",
+                                "notes": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/notes",
+                                "@context": {
+                                    "ancestors": "http://www.w3.org/2002/07/owl#Class",
+                                    "mappings": "http://data.bioontology.org/metadata/Mapping",
+                                    "descendants": "http://www.w3.org/2002/07/owl#Class",
+                                    "notes": "http://data.bioontology.org/metadata/Note",
+                                    "tree": "http://www.w3.org/2002/07/owl#Class",
+                                    "children": "http://www.w3.org/2002/07/owl#Class",
+                                    "instances": "http://data.bioontology.org/metadata/Instance",
+                                    "parents": "http://www.w3.org/2002/07/owl#Class",
+                                    "ui": "http://www.w3.org/2002/07/owl#Class",
+                                    "ontology": "http://data.bioontology.org/metadata/Ontology",
+                                    "self": "http://www.w3.org/2002/07/owl#Class"
+                                },
+                                "ontology": "http://data.bioontology.org/ontologies/NCBITAXON",
+                                "children": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/children"
+                            },
+                            "semanticType": [
+                                "http://purl.bioontology.org/ontology/STY/T016"
+                            ],
+                            "obsolete": false,
+                            "cui": [
+                                "C0086418"
+                            ],
+                            "@context": {
+                                "definition": "http://data.bioontology.org/metadata/skosdefinition",
+                                "@vocab": "http://data.bioontology.org/metadata/",
+                                "synonym": "http://data.bioontology.org/metadata/skossynonym",
+                                "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+                                "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+                                "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+                                "cui": "http://data.bioontology.org/metadata/umlscui"
+                            },
+                            "@id": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                            "@type": "http://www.w3.org/2002/07/owl#Class",
+                            "prefLabel": "Homo sapiens"
+                        }
+                    },
+                    "assays": {
+                        "a_E-GEOD-4209_GeneChip_assay-txt": {
+                            "raw": [
+                                {
+                                    "a100015termsourceref": "",
+                                    "a100000samplename": "GSM96148 sample",
+                                    "a100013arraydesignref": "A-AFFY-33",
+                                    "a100017derivedarraydatamatrixfile": "E-GEOD-4209-processed-data-1519310732.txt",
+                                    "a100006label": "biotin",
+                                    "a100010termsourceref": "",
+                                    "a100009materialtype": "synthetic_RNA",
+                                    "a100012hybridizationassayname": "activated_normal_T_cells_static_rep2",
+                                    "a100002materialtype": "total_RNA",
+                                    "a100001extractname": "GSM96148 extract",
+                                    "a100007termsourceref": "",
+                                    "a100004termaccessionnumber": "",
+                                    "a100003termsourceref": "",
+                                    "a100008termaccessionnumber": "",
+                                    "a100011termaccessionnumber": "",
+                                    "a100016termaccessionnumber": "",
+                                    "a100018scanname": "activated_normal_T_cells_static_rep2",
+                                    "a100019commentderivedarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-4209/E-GEOD-4209.processed.1.zip",
+                                    "a100014factorvaluesimulatedmicrogravity": "normal gravity",
+                                    "a100005labeledextractname": "GSM96148 LE.biotin"
+                                },
+                                {
+                                    "a100015termsourceref": "",
+                                    "a100000samplename": "GSM96147 sample",
+                                    "a100013arraydesignref": "A-AFFY-33",
+                                    "a100017derivedarraydatamatrixfile": "E-GEOD-4209-processed-data-1519310732.txt",
+                                    "a100006label": "biotin",
+                                    "a100010termsourceref": "",
+                                    "a100009materialtype": "synthetic_RNA",
+                                    "a100012hybridizationassayname": "activated_normal_T_CELL_MMG",
+                                    "a100002materialtype": "total_RNA",
+                                    "a100001extractname": "GSM96147 extract",
+                                    "a100007termsourceref": "",
+                                    "a100004termaccessionnumber": "",
+                                    "a100003termsourceref": "",
+                                    "a100008termaccessionnumber": "",
+                                    "a100011termaccessionnumber": "",
+                                    "a100016termaccessionnumber": "",
+                                    "a100018scanname": "activated_normal_T_CELL_MMG",
+                                    "a100019commentderivedarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-4209/E-GEOD-4209.processed.1.zip",
+                                    "a100014factorvaluesimulatedmicrogravity": "modeled microgravity",
+                                    "a100005labeledextractname": "GSM96147 LE.biotin"
+                                },
+                                {
+                                    "a100015termsourceref": "",
+                                    "a100000samplename": "GSM96151 sample",
+                                    "a100013arraydesignref": "A-AFFY-33",
+                                    "a100017derivedarraydatamatrixfile": "E-GEOD-4209-processed-data-1519310732.txt",
+                                    "a100006label": "biotin",
+                                    "a100010termsourceref": "",
+                                    "a100009materialtype": "synthetic_RNA",
+                                    "a100012hybridizationassayname": "activated_normal_T_cells_MMG_rep3",
+                                    "a100002materialtype": "total_RNA",
+                                    "a100001extractname": "GSM96151 extract",
+                                    "a100007termsourceref": "",
+                                    "a100004termaccessionnumber": "",
+                                    "a100003termsourceref": "",
+                                    "a100008termaccessionnumber": "",
+                                    "a100011termaccessionnumber": "",
+                                    "a100016termaccessionnumber": "",
+                                    "a100018scanname": "activated_normal_T_cells_MMG_rep3",
+                                    "a100019commentderivedarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-4209/E-GEOD-4209.processed.1.zip",
+                                    "a100014factorvaluesimulatedmicrogravity": "modeled microgravity",
+                                    "a100005labeledextractname": "GSM96151 LE.biotin"
+                                },
+                                {
+                                    "a100015termsourceref": "",
+                                    "a100000samplename": "GSM96149 sample",
+                                    "a100013arraydesignref": "A-AFFY-33",
+                                    "a100017derivedarraydatamatrixfile": "E-GEOD-4209-processed-data-1519310732.txt",
+                                    "a100006label": "biotin",
+                                    "a100010termsourceref": "",
+                                    "a100009materialtype": "synthetic_RNA",
+                                    "a100012hybridizationassayname": "activated_Normal_T_cells_MMG_rep2",
+                                    "a100002materialtype": "total_RNA",
+                                    "a100001extractname": "GSM96149 extract",
+                                    "a100007termsourceref": "",
+                                    "a100004termaccessionnumber": "",
+                                    "a100003termsourceref": "",
+                                    "a100008termaccessionnumber": "",
+                                    "a100011termaccessionnumber": "",
+                                    "a100016termaccessionnumber": "",
+                                    "a100018scanname": "activated_Normal_T_cells_MMG_rep2",
+                                    "a100019commentderivedarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-4209/E-GEOD-4209.processed.1.zip",
+                                    "a100014factorvaluesimulatedmicrogravity": "modeled microgravity",
+                                    "a100005labeledextractname": "GSM96149 LE.biotin"
+                                },
+                                {
+                                    "a100015termsourceref": "",
+                                    "a100000samplename": "GSM96150 sample",
+                                    "a100013arraydesignref": "A-AFFY-33",
+                                    "a100017derivedarraydatamatrixfile": "E-GEOD-4209-processed-data-1519310732.txt",
+                                    "a100006label": "biotin",
+                                    "a100010termsourceref": "",
+                                    "a100009materialtype": "synthetic_RNA",
+                                    "a100012hybridizationassayname": "activated_normal_T_cells_static_rep3",
+                                    "a100002materialtype": "total_RNA",
+                                    "a100001extractname": "GSM96150 extract",
+                                    "a100007termsourceref": "",
+                                    "a100004termaccessionnumber": "",
+                                    "a100003termsourceref": "",
+                                    "a100008termaccessionnumber": "",
+                                    "a100011termaccessionnumber": "",
+                                    "a100016termaccessionnumber": "",
+                                    "a100018scanname": "activated_normal_T_cells_static_rep3",
+                                    "a100019commentderivedarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-4209/E-GEOD-4209.processed.1.zip",
+                                    "a100014factorvaluesimulatedmicrogravity": "normal gravity",
+                                    "a100005labeledextractname": "GSM96150 LE.biotin"
+                                },
+                                {
+                                    "a100015termsourceref": "",
+                                    "a100000samplename": "GSM96146 sample",
+                                    "a100013arraydesignref": "A-AFFY-33",
+                                    "a100017derivedarraydatamatrixfile": "E-GEOD-4209-processed-data-1519310732.txt",
+                                    "a100006label": "biotin",
+                                    "a100010termsourceref": "",
+                                    "a100009materialtype": "synthetic_RNA",
+                                    "a100012hybridizationassayname": "Activated_normal_T_cell_static",
+                                    "a100002materialtype": "total_RNA",
+                                    "a100001extractname": "GSM96146 extract",
+                                    "a100007termsourceref": "",
+                                    "a100004termaccessionnumber": "",
+                                    "a100003termsourceref": "",
+                                    "a100008termaccessionnumber": "",
+                                    "a100011termaccessionnumber": "",
+                                    "a100016termaccessionnumber": "",
+                                    "a100018scanname": "Activated_normal_T_cell_static",
+                                    "a100019commentderivedarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-4209/E-GEOD-4209.processed.1.zip",
+                                    "a100014factorvaluesimulatedmicrogravity": "normal gravity",
+                                    "a100005labeledextractname": "GSM96146 LE.biotin"
+                                }
+                            ],
+                            "header": [
+                                {
+                                    "width": 200,
+                                    "title": "Sample Name",
+                                    "field": "a100000samplename",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Extract Name",
+                                    "field": "a100001extractname",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Material Type",
+                                    "field": "a100002materialtype",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Labeled Extract Name",
+                                    "field": "a100005labeledextractname",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Label",
+                                    "field": "a100006label",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Material Type",
+                                    "field": "a100009materialtype",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Hybridization Assay Name",
+                                    "field": "a100012hybridizationassayname",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Array Design REF",
+                                    "field": "a100013arraydesignref",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Factor Value:  simulated microgravity",
+                                    "field": "a100014factorvaluesimulatedmicrogravity",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Derived Array Data Matrix File",
+                                    "field": "a100017derivedarraydatamatrixfile",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Scan Name",
+                                    "field": "a100018scanname",
+                                    "encoded": false
+                                },
+                                {
+                                    "width": 200,
+                                    "title": "Comment:  Derived ArrayExpress FTP file",
+                                    "field": "a100019commentderivedarrayexpressftpfile",
+                                    "encoded": false
+                                }
+                            ],
+                            "table": [
+                                {
+                                    "a100013arraydesignref": "A-AFFY-33",
+                                    "a100006label": "biotin",
+                                    "a100017derivedarraydatamatrixfile": "E-GEOD-4209-processed-data-1519310732.txt",
+                                    "a100012hybridizationassayname": "activated_normal_T_cells_static_rep2",
+                                    "a100002materialtype": "total_RNA",
+                                    "a100001extractname": "GSM96148 extract",
+                                    "a100000samplename": "GSM96148 sample",
+                                    "a100009materialtype": "synthetic_RNA",
+                                    "a100018scanname": "activated_normal_T_cells_static_rep2",
+                                    "a100019commentderivedarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-4209/E-GEOD-4209.processed.1.zip",
+                                    "a100014factorvaluesimulatedmicrogravity": "normal gravity",
+                                    "a100005labeledextractname": "GSM96148 LE.biotin"
+                                },
+                                {
+                                    "a100013arraydesignref": "A-AFFY-33",
+                                    "a100006label": "biotin",
+                                    "a100017derivedarraydatamatrixfile": "E-GEOD-4209-processed-data-1519310732.txt",
+                                    "a100012hybridizationassayname": "activated_normal_T_CELL_MMG",
+                                    "a100002materialtype": "total_RNA",
+                                    "a100001extractname": "GSM96147 extract",
+                                    "a100000samplename": "GSM96147 sample",
+                                    "a100009materialtype": "synthetic_RNA",
+                                    "a100018scanname": "activated_normal_T_CELL_MMG",
+                                    "a100019commentderivedarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-4209/E-GEOD-4209.processed.1.zip",
+                                    "a100014factorvaluesimulatedmicrogravity": "modeled microgravity",
+                                    "a100005labeledextractname": "GSM96147 LE.biotin"
+                                },
+                                {
+                                    "a100013arraydesignref": "A-AFFY-33",
+                                    "a100006label": "biotin",
+                                    "a100017derivedarraydatamatrixfile": "E-GEOD-4209-processed-data-1519310732.txt",
+                                    "a100012hybridizationassayname": "activated_normal_T_cells_MMG_rep3",
+                                    "a100002materialtype": "total_RNA",
+                                    "a100001extractname": "GSM96151 extract",
+                                    "a100000samplename": "GSM96151 sample",
+                                    "a100009materialtype": "synthetic_RNA",
+                                    "a100018scanname": "activated_normal_T_cells_MMG_rep3",
+                                    "a100019commentderivedarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-4209/E-GEOD-4209.processed.1.zip",
+                                    "a100014factorvaluesimulatedmicrogravity": "modeled microgravity",
+                                    "a100005labeledextractname": "GSM96151 LE.biotin"
+                                },
+                                {
+                                    "a100013arraydesignref": "A-AFFY-33",
+                                    "a100006label": "biotin",
+                                    "a100017derivedarraydatamatrixfile": "E-GEOD-4209-processed-data-1519310732.txt",
+                                    "a100012hybridizationassayname": "activated_Normal_T_cells_MMG_rep2",
+                                    "a100002materialtype": "total_RNA",
+                                    "a100001extractname": "GSM96149 extract",
+                                    "a100000samplename": "GSM96149 sample",
+                                    "a100009materialtype": "synthetic_RNA",
+                                    "a100018scanname": "activated_Normal_T_cells_MMG_rep2",
+                                    "a100019commentderivedarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-4209/E-GEOD-4209.processed.1.zip",
+                                    "a100014factorvaluesimulatedmicrogravity": "modeled microgravity",
+                                    "a100005labeledextractname": "GSM96149 LE.biotin"
+                                },
+                                {
+                                    "a100013arraydesignref": "A-AFFY-33",
+                                    "a100006label": "biotin",
+                                    "a100017derivedarraydatamatrixfile": "E-GEOD-4209-processed-data-1519310732.txt",
+                                    "a100012hybridizationassayname": "activated_normal_T_cells_static_rep3",
+                                    "a100002materialtype": "total_RNA",
+                                    "a100001extractname": "GSM96150 extract",
+                                    "a100000samplename": "GSM96150 sample",
+                                    "a100009materialtype": "synthetic_RNA",
+                                    "a100018scanname": "activated_normal_T_cells_static_rep3",
+                                    "a100019commentderivedarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-4209/E-GEOD-4209.processed.1.zip",
+                                    "a100014factorvaluesimulatedmicrogravity": "normal gravity",
+                                    "a100005labeledextractname": "GSM96150 LE.biotin"
+                                },
+                                {
+                                    "a100013arraydesignref": "A-AFFY-33",
+                                    "a100006label": "biotin",
+                                    "a100017derivedarraydatamatrixfile": "E-GEOD-4209-processed-data-1519310732.txt",
+                                    "a100012hybridizationassayname": "Activated_normal_T_cell_static",
+                                    "a100002materialtype": "total_RNA",
+                                    "a100001extractname": "GSM96146 extract",
+                                    "a100000samplename": "GSM96146 sample",
+                                    "a100009materialtype": "synthetic_RNA",
+                                    "a100018scanname": "Activated_normal_T_cell_static",
+                                    "a100019commentderivedarrayexpressftpfile": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/GEOD/E-GEOD-4209/E-GEOD-4209.processed.1.zip",
+                                    "a100014factorvaluesimulatedmicrogravity": "normal gravity",
+                                    "a100005labeledextractname": "GSM96146 LE.biotin"
+                                }
+                            ]
+                        }
+                    },
+                    "organisms": {
+                        "ontologies": {
+                            "homosapiens": {
+                                "definition": [],
+                                "synonym": [
+                                    "man"
+                                ],
+                                "links": {
+                                    "ui": "http://bioportal.bioontology.org/ontologies/NCBITAXON?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606",
+                                    "ancestors": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/ancestors",
+                                    "mappings": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/mappings",
+                                    "descendants": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/descendants",
+                                    "self": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606",
+                                    "tree": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/tree",
+                                    "instances": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/instances",
+                                    "parents": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/parents",
+                                    "notes": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/notes",
+                                    "@context": {
+                                        "ancestors": "http://www.w3.org/2002/07/owl#Class",
+                                        "mappings": "http://data.bioontology.org/metadata/Mapping",
+                                        "descendants": "http://www.w3.org/2002/07/owl#Class",
+                                        "notes": "http://data.bioontology.org/metadata/Note",
+                                        "tree": "http://www.w3.org/2002/07/owl#Class",
+                                        "children": "http://www.w3.org/2002/07/owl#Class",
+                                        "instances": "http://data.bioontology.org/metadata/Instance",
+                                        "parents": "http://www.w3.org/2002/07/owl#Class",
+                                        "ui": "http://www.w3.org/2002/07/owl#Class",
+                                        "ontology": "http://data.bioontology.org/metadata/Ontology",
+                                        "self": "http://www.w3.org/2002/07/owl#Class"
+                                    },
+                                    "ontology": "http://data.bioontology.org/ontologies/NCBITAXON",
+                                    "children": "http://data.bioontology.org/ontologies/NCBITAXON/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FNCBITAXON%2F9606/children"
+                                },
+                                "semanticType": [
+                                    "http://purl.bioontology.org/ontology/STY/T016"
+                                ],
+                                "obsolete": false,
+                                "cui": [
+                                    "C0086418"
+                                ],
+                                "@context": {
+                                    "definition": "http://data.bioontology.org/metadata/skosdefinition",
+                                    "@vocab": "http://data.bioontology.org/metadata/",
+                                    "synonym": "http://data.bioontology.org/metadata/skossynonym",
+                                    "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+                                    "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+                                    "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+                                    "cui": "http://data.bioontology.org/metadata/umlscui"
+                                },
+                                "@id": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                "@type": "http://www.w3.org/2002/07/owl#Class",
+                                "prefLabel": "Homo sapiens"
+                            }
+                        },
+                        "links": {
+                            "homosapiens": "<a target=\"_blank\" href=\"http://purl.bioontology.org/ontology/NCBITAXON/9606\" title=\"man\" source=\"NCBITAXON\">Homo sapiens </a>"
+                        }
+                    }
+                },
+                "title": "",
+                "comments": [
+                    {
+                        "name": "Created with configuration",
+                        "value": ""
+                    },
+                    {
+                        "name": "Last Opened With Configuration",
+                        "value": "GeneLab-ISA-Configuration"
+                    },
+                    {
+                        "name": "Created With Configuration",
+                        "value": ""
+                    }
+                ],
+                "publicReleaseDate": "",
+                "submissionDate": "",
+                "identifier": "1427393724056",
+                "studies": [
+                    {
+                        "publicReleaseDate": "09-Feb-2006",
+                        "unitCategories": [],
+                        "description": "The purpose of this study was to search for microgravity-sensitive genes, specifically for apoptotic genes influenced by the microgravity environment and other genes related to immune response. Experiment Overall Design: Two-group design with paired samples, i.e., one 1G and one MMG culture came from the same donor. Therefore, 6 samples came from 3 different donors. Experiment Overall Design: Donor 1 :GSM96146,GSM96147 Experiment Overall Design: Donor 2: GSM96148, GSM96149 Experiment Overall Design: Donor 3: GSM96150,GSM96151 Experiment Overall Design: Total RNA was submitted to, and then labeled, hybridized and data generated by the Baylor College Medicine Microarray Core Facility (333E One Baylor Plaza, Houston, TX 77030).",
+                        "people": [
+                            {
+                                "fax": "",
+                                "firstName": "Diana",
+                                "roles": [
+                                    {
+                                        "annotationValue": "submitter",
+                                        "termAccession": "",
+                                        "termSource": ""
+                                    }
+                                ],
+                                "phone": "",
+                                "lastName": "Risin",
+                                "comments": [
+                                    {
+                                        "name": "Study Person REF",
+                                        "value": ""
+                                    }
+                                ],
+                                "affiliation": "NASA/JSC",
+                                "address": "Space Medicine , NASA/JSC, 2101 NASA Parkway, Houston, 77058-3696, USA",
+                                "@id": "",
+                                "email": "diana.risin-1@nasa.gov",
+                                "midInitials": ""
+                            }
+                        ],
+                        "publications": [
+                            {
+                                "status": {
+                                    "annotationValue": "published",
+                                    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+                                    "termSource": "EFO"
+                                },
+                                "doi": "10.1002/jcb.20988",
+                                "title": "Gene expression alterations in activated human T-cells induced by modeled microgravity.",
+                                "pubMedID": "16795038",
+                                "authorList": "Nancy E Ward, Neal R Pellis, Semyon A Risin, Diana Risin",
+                                "link": ""
+                            }
+                        ],
+                        "factors": [
+                            {
+                                "factorName": "simulated microgravity",
+                                "factorType": {
+                                    "annotationValue": "Weightlessness Simulation",
+                                    "termAccession": "http://purl.bioontology.org/ontology/MESH/D018474",
+                                    "termSource": "MESH"
+                                },
+                                "@id": ""
+                            }
+                        ],
+                        "comments": [
+                            {
+                                "name": "Funding",
+                                "value": "This work was funded by NASA Grant NRA-94-OLMSA-02 and NSCORT Grant NAG5-4072."
+                            },
+                            {
+                                "name": "Mission Start",
+                                "value": ""
+                            },
+                            {
+                                "name": "Flight Program",
+                                "value": "NA"
+                            },
+                            {
+                                "name": "Project Link",
+                                "value": ""
+                            },
+                            {
+                                "name": "Project Type",
+                                "value": "Ground Study"
+                            },
+                            {
+                                "name": "Study Grant Number",
+                                "value": "NASA Grant NRA-94-OLMSA-02 and NSCORT Grant NAG5-4072"
+                            },
+                            {
+                                "name": "Space Program",
+                                "value": "NA"
+                            },
+                            {
+                                "name": "Project Identifier",
+                                "value": "NA"
+                            },
+                            {
+                                "name": "Study Funding Agency",
+                                "value": ""
+                            },
+                            {
+                                "name": "Experiment Platform",
+                                "value": ""
+                            },
+                            {
+                                "name": "Data Source Accession",
+                                "value": "E-GEOD-4209"
+                            },
+                            {
+                                "name": "Mission Name",
+                                "value": ""
+                            },
+                            {
+                                "name": "Project Title",
+                                "value": "NA"
+                            },
+                            {
+                                "name": "Data Source Link",
+                                "value": "http://www.ebi.ac.uk/arrayexpress/experiments/E-GEOD-4209/"
+                            },
+                            {
+                                "name": "Mission Link",
+                                "value": ""
+                            },
+                            {
+                                "name": "Managing NASA Center",
+                                "value": "NA"
+                            },
+                            {
+                                "name": "Acknowledgments",
+                                "value": ""
+                            },
+                            {
+                                "name": "Mission End",
+                                "value": ""
+                            }
+                        ],
+                        "filename": "s_E-GEOD-4209_study_samples.txt",
+                        "materials": {
+                            "sources": [
+                                {
+                                    "characteristics": [
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "T-lymphocytes",
+                                                "termAccession": "",
+                                                "termSource": ""
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "Homo sapiens",
+                                                "termAccession": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                                "termSource": "NCBITAXON"
+                                            }
+                                        }
+                                    ],
+                                    "@id": "",
+                                    "name": "source-GSM96151"
+                                },
+                                {
+                                    "characteristics": [
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "T-lymphocytes",
+                                                "termAccession": "",
+                                                "termSource": ""
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "Homo sapiens",
+                                                "termAccession": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                                "termSource": "NCBITAXON"
+                                            }
+                                        }
+                                    ],
+                                    "@id": "",
+                                    "name": "source-GSM96149"
+                                },
+                                {
+                                    "characteristics": [
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "T-lymphocytes",
+                                                "termAccession": "",
+                                                "termSource": ""
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "Homo sapiens",
+                                                "termAccession": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                                "termSource": "NCBITAXON"
+                                            }
+                                        }
+                                    ],
+                                    "@id": "",
+                                    "name": "source-GSM96148"
+                                },
+                                {
+                                    "characteristics": [
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "T-lymphocytes",
+                                                "termAccession": "",
+                                                "termSource": ""
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "Homo sapiens",
+                                                "termAccession": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                                "termSource": "NCBITAXON"
+                                            }
+                                        }
+                                    ],
+                                    "@id": "",
+                                    "name": "source-GSM96146"
+                                },
+                                {
+                                    "characteristics": [
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "T-lymphocytes",
+                                                "termAccession": "",
+                                                "termSource": ""
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "Homo sapiens",
+                                                "termAccession": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                                "termSource": "NCBITAXON"
+                                            }
+                                        }
+                                    ],
+                                    "@id": "",
+                                    "name": "source-GSM96147"
+                                },
+                                {
+                                    "characteristics": [
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "T-lymphocytes",
+                                                "termAccession": "",
+                                                "termSource": ""
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "Homo sapiens",
+                                                "termAccession": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
+                                                "termSource": "NCBITAXON"
+                                            }
+                                        }
+                                    ],
+                                    "@id": "",
+                                    "name": "source-GSM96150"
+                                }
+                            ],
+                            "otherMaterials": [],
+                            "samples": [
+                                {
+                                    "characteristics": [],
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "normal gravity",
+                                                "termAccession": "",
+                                                "termSource": ""
+                                            }
+                                        }
+                                    ],
+                                    "@id": "",
+                                    "name": "sample-GSM96146 sample",
+                                    "derivesFrom": [
+                                        {
+                                            "@id": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "characteristics": [],
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "modeled microgravity",
+                                                "termAccession": "",
+                                                "termSource": ""
+                                            }
+                                        }
+                                    ],
+                                    "@id": "",
+                                    "name": "sample-GSM96151 sample",
+                                    "derivesFrom": [
+                                        {
+                                            "@id": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "characteristics": [],
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "modeled microgravity",
+                                                "termAccession": "",
+                                                "termSource": ""
+                                            }
+                                        }
+                                    ],
+                                    "@id": "",
+                                    "name": "sample-GSM96149 sample",
+                                    "derivesFrom": [
+                                        {
+                                            "@id": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "characteristics": [],
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "normal gravity",
+                                                "termAccession": "",
+                                                "termSource": ""
+                                            }
+                                        }
+                                    ],
+                                    "@id": "",
+                                    "name": "sample-GSM96150 sample",
+                                    "derivesFrom": [
+                                        {
+                                            "@id": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "characteristics": [],
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "modeled microgravity",
+                                                "termAccession": "",
+                                                "termSource": ""
+                                            }
+                                        }
+                                    ],
+                                    "@id": "",
+                                    "name": "sample-GSM96147 sample",
+                                    "derivesFrom": [
+                                        {
+                                            "@id": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "characteristics": [],
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "@id": ""
+                                            },
+                                            "value": {
+                                                "annotationValue": "normal gravity",
+                                                "termAccession": "",
+                                                "termSource": ""
+                                            }
+                                        }
+                                    ],
+                                    "@id": "",
+                                    "name": "sample-GSM96148 sample",
+                                    "derivesFrom": [
+                                        {
+                                            "@id": ""
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "studyDesignDescriptors": [
+                            {
+                                "annotationValue": "in-vitro design",
+                                "termAccession": "",
+                                "termSource": ""
+                            },
+                            {
+                                "annotationValue": "co-expression design",
+                                "termAccession": "",
+                                "termSource": ""
+                            },
+                            {
+                                "annotationValue": "transcription profiling by array",
+                                "termAccession": "",
+                                "termSource": ""
+                            }
+                        ],
+                        "submissionDate": "08-Feb-2006",
+                        "assays": [
+                            {
+                                "technologyPlatform": "Affymetrix",
+                                "unitCategories": [],
+                                "technologyType": {
+                                    "annotationValue": "DNA microarray",
+                                    "termAccession": "http://purl.obolibrary.org/obo/OBI_0400148",
+                                    "termSource": "OBI"
+                                },
+                                "filename": "a_E-GEOD-4209_GeneChip_assay.txt",
+                                "materials": {
+                                    "otherMaterials": [
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "total_RNA",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Extract Name",
+                                            "name": "extract-GSM96148 extract"
+                                        },
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "total_RNA",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Extract Name",
+                                            "name": "extract-GSM96149 extract"
+                                        },
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "total_RNA",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Extract Name",
+                                            "name": "extract-GSM96146 extract"
+                                        },
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "biotin",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                },
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "total_RNA",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Labeled Extract Name",
+                                            "name": "labeledextract-GSM96151 LE.biotin"
+                                        },
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "total_RNA",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Extract Name",
+                                            "name": "extract-GSM96147 extract"
+                                        },
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "total_RNA",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Extract Name",
+                                            "name": "extract-GSM96150 extract"
+                                        },
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "biotin",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                },
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "total_RNA",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Labeled Extract Name",
+                                            "name": "labeledextract-GSM96147 LE.biotin"
+                                        },
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "biotin",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                },
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "total_RNA",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Labeled Extract Name",
+                                            "name": "labeledextract-GSM96150 LE.biotin"
+                                        },
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "total_RNA",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Extract Name",
+                                            "name": "extract-GSM96151 extract"
+                                        },
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "biotin",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                },
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "total_RNA",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Labeled Extract Name",
+                                            "name": "labeledextract-GSM96148 LE.biotin"
+                                        },
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "biotin",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                },
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "total_RNA",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Labeled Extract Name",
+                                            "name": "labeledextract-GSM96149 LE.biotin"
+                                        },
+                                        {
+                                            "@id": "",
+                                            "characteristics": [
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "biotin",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                },
+                                                {
+                                                    "category": {
+                                                        "@id": ""
+                                                    },
+                                                    "value": {
+                                                        "annotationValue": "total_RNA",
+                                                        "termAccession": "",
+                                                        "termSource": ""
+                                                    }
+                                                }
+                                            ],
+                                            "type": "Labeled Extract Name",
+                                            "name": "labeledextract-GSM96146 LE.biotin"
+                                        }
+                                    ],
+                                    "samples": []
+                                },
+                                "characteristicCategories": [
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Label",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    },
+                                    {
+                                        "@id": "",
+                                        "characteristicType": {
+                                            "annotationValue": "Material Type",
+                                            "termAccession": "",
+                                            "termSource": ""
+                                        }
+                                    }
+                                ],
+                                "dataFiles": [],
+                                "measurementType": {
+                                    "annotationValue": "transcription profiling",
+                                    "termAccession": "http://purl.obolibrary.org/obo/OBI_0000424",
+                                    "termSource": "OBI"
+                                },
+                                "@id": "",
+                                "processSequence": [
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            },
+                                            {
+                                                "@id": ""
+                                            },
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "name": "activated_Normal_T_cells_MMG_rep2",
+                                        "parameterValues": [
+                                            {
+                                                "category": {
+                                                    "@id": ""
+                                                },
+                                                "value": "A-AFFY-33"
+                                            }
+                                        ],
+                                        "outputs": [],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            },
+                                            {
+                                                "@id": ""
+                                            },
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "name": "Activated_normal_T_cell_static",
+                                        "parameterValues": [
+                                            {
+                                                "category": {
+                                                    "@id": ""
+                                                },
+                                                "value": "A-AFFY-33"
+                                            }
+                                        ],
+                                        "outputs": [],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            },
+                                            {
+                                                "@id": ""
+                                            },
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "name": "activated_normal_T_cells_MMG_rep3",
+                                        "parameterValues": [
+                                            {
+                                                "category": {
+                                                    "@id": ""
+                                                },
+                                                "value": "A-AFFY-33"
+                                            }
+                                        ],
+                                        "outputs": [],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            },
+                                            {
+                                                "@id": ""
+                                            },
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "name": "activated_normal_T_cells_static_rep2",
+                                        "parameterValues": [
+                                            {
+                                                "category": {
+                                                    "@id": ""
+                                                },
+                                                "value": "A-AFFY-33"
+                                            }
+                                        ],
+                                        "outputs": [],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            },
+                                            {
+                                                "@id": ""
+                                            },
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "name": "activated_normal_T_cells_static_rep3",
+                                        "parameterValues": [
+                                            {
+                                                "category": {
+                                                    "@id": ""
+                                                },
+                                                "value": "A-AFFY-33"
+                                            }
+                                        ],
+                                        "outputs": [],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    },
+                                    {
+                                        "executesProtocol": {
+                                            "@id": ""
+                                        },
+                                        "inputs": [
+                                            {
+                                                "@id": ""
+                                            },
+                                            {
+                                                "@id": ""
+                                            },
+                                            {
+                                                "@id": ""
+                                            }
+                                        ],
+                                        "performer": "",
+                                        "name": "activated_normal_T_CELL_MMG",
+                                        "parameterValues": [
+                                            {
+                                                "category": {
+                                                    "@id": ""
+                                                },
+                                                "value": "A-AFFY-33"
+                                            }
+                                        ],
+                                        "outputs": [],
+                                        "comments": [],
+                                        "date": "",
+                                        "@id": ""
+                                    }
+                                ]
+                            }
+                        ],
+                        "characteristicCategories": [
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "CellType",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "CellType",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "CellType",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "CellType",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "CellType",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "CellType",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "CellType",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "CellType",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "CellType",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "CellType",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "CellType",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "CellType",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            },
+                            {
+                                "@id": "",
+                                "characteristicType": {
+                                    "annotationValue": "organism",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                }
+                            }
+                        ],
+                        "title": "Transcription profiling of activated human T cells induced by microgravity to identify apoptotic genes and other immune response genes",
+                        "identifier": "E-GEOD-4209",
+                        "@id": "",
+                        "protocols": [
+                            {
+                                "description": "",
+                                "parameters": [],
+                                "protocolType": {
+                                    "annotationValue": ""
+                                },
+                                "uri": "",
+                                "version": "",
+                                "components": [],
+                                "@id": "",
+                                "name": "unknown"
+                            },
+                            {
+                                "description": "T-lymphocytes from normal donors activated with anti-CD3 and IL2, cultured in 1G condition (normal gravity) for 24 hours.",
+                                "parameters": [],
+                                "protocolType": {
+                                    "annotationValue": "Sample collection protocol",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                },
+                                "uri": "",
+                                "version": "",
+                                "components": [],
+                                "@id": "",
+                                "name": "Sample collection protocol"
+                            },
+                            {
+                                "description": "Total RNA was isolated utilizing the RNeasy isolation kit (Qiagen, Valencia, CA). Briefly, cell pellets were lysed and homogenized followed by the addition of ethanol to optimize binding of RNA to the spin column. Contaminants were removed via washing by centrifugation and total RNA was eluted in water. RNA was then analyzed for quality utilizing the Agilent 2100 Bioanalyzer and the concentration was determined using the NanoDrop ND-1000 Spectrophotometer.",
+                                "parameters": [],
+                                "protocolType": {
+                                    "annotationValue": "nucleic acid extraction protocol",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                },
+                                "uri": "",
+                                "version": "",
+                                "components": [],
+                                "@id": "",
+                                "name": "nucleic acid extraction protocol"
+                            },
+                            {
+                                "description": "RNA quality check, labeling and hyb followed standard affymetrix procedures.  Label: biotinylation",
+                                "parameters": [],
+                                "protocolType": {
+                                    "annotationValue": "labeling protocol",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                },
+                                "uri": "",
+                                "version": "",
+                                "components": [],
+                                "@id": "",
+                                "name": "labeling protocol"
+                            },
+                            {
+                                "description": "RNA quality check, labeling and hyb followed standard affymetrix procedures.",
+                                "parameters": [],
+                                "protocolType": {
+                                    "annotationValue": "hybridization protocol",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                },
+                                "uri": "",
+                                "version": "",
+                                "components": [],
+                                "@id": "",
+                                "name": "hybridization protocol"
+                            },
+                            {
+                                "description": "Microarray analysis was performed using the Affymetrix GeneChip Human U133A array as described in the Affymetrix Analysis Technical Manual.",
+                                "parameters": [],
+                                "protocolType": {
+                                    "annotationValue": "scan protocol",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                },
+                                "uri": "",
+                                "version": "",
+                                "components": [],
+                                "@id": "",
+                                "name": "scan protocol"
+                            },
+                            {
+                                "description": "Microarrays were performed in triplicate using RNA isolated from the activated lymphocytes of three different blood donors. A cutoff was set at greater than or equal to 1.5-fold for analysis and for identifying genes of interest with the criterion for significance less than 0.01.",
+                                "parameters": [],
+                                "protocolType": {
+                                    "annotationValue": "data processing protocol",
+                                    "termAccession": "",
+                                    "termSource": ""
+                                },
+                                "uri": "",
+                                "version": "",
+                                "components": [],
+                                "@id": "",
+                                "name": "data processing protocol"
+                            }
+                        ],
+                        "processSequence": []
+                    }
+                ],
+                "publications": []
+            }
+        }
+    },
+    "success": true
+}

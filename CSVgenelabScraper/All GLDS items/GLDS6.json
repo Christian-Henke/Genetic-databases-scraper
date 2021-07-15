@@ -1,0 +1,187 @@
+{
+    "hits": 1,
+    "input": "6",
+    "page_number": 1,
+    "total_hits": 1,
+    "page_total": 1,
+    "success": true,
+    "valid_input": [
+        "6"
+    ],
+    "studies": {
+        "GLDS-6": {
+            "study_files": [
+                {
+                    "file_name": "GLDS-6_metadata_A-AFFY-43.adf.txt",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/metadata/GLDS-6_metadata_A-AFFY-43.adf.txt",
+                    "file_size": 2066265,
+                    "date_created": 1506008636597
+                },
+                {
+                    "file_name": "GLDS-6_microarray_E-GEOD-6299.processed.1.zip",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/microarray/GLDS-6_microarray_E-GEOD-6299.processed.1.zip",
+                    "file_size": 742223,
+                    "date_created": 1506008636597
+                },
+                {
+                    "file_name": "GLDS-6_microarray_E-GEOD-6299.raw.1.zip",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/microarray/GLDS-6_microarray_E-GEOD-6299.raw.1.zip",
+                    "file_size": 14940342,
+                    "date_created": 1506008636597
+                },
+                {
+                    "file_name": "GLDS-6_array_arrayInfo.txt",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_arrayInfo.txt",
+                    "file_size": 20,
+                    "date_created": 1565758649554
+                },
+                {
+                    "file_name": "GLDS-6_array_normPlotMA.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_normPlotMA.png",
+                    "file_size": 61308,
+                    "date_created": 1565758700671
+                },
+                {
+                    "file_name": "GLDS-6_array_contrasts.csv",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_contrasts.csv",
+                    "file_size": 147,
+                    "date_created": 1565758776867
+                },
+                {
+                    "file_name": "GLDS-6_array_annotReport.txt",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_annotReport.txt",
+                    "file_size": 203,
+                    "date_created": 1565758713179
+                },
+                {
+                    "file_name": "GLDS-6_array_visualization_PCA_table.csv",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_visualization_PCA_table.csv",
+                    "file_size": 914,
+                    "date_created": 1565758776844
+                },
+                {
+                    "file_name": "GLDS-6_array_normBoxplot.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_normBoxplot.png",
+                    "file_size": 15159,
+                    "date_created": 1565758700443
+                },
+                {
+                    "file_name": "GLDS-6_array_images.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_images.png",
+                    "file_size": 68612,
+                    "date_created": 1565758623871
+                },
+                {
+                    "file_name": "GLDS-6_array_rawDensityDistributions.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_rawDensityDistributions.png",
+                    "file_size": 35104,
+                    "date_created": 1565758623959
+                },
+                {
+                    "file_name": "GLDS-6_array_normDensityDistributions.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_normDensityDistributions.png",
+                    "file_size": 28230,
+                    "date_created": 1565758700460
+                },
+                {
+                    "file_name": "GLDS-6_array_normalized-annotated.rda",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_normalized-annotated.rda",
+                    "file_size": 687465,
+                    "date_created": 1565758677056
+                },
+                {
+                    "file_name": "GLDS-6_array_rawPCA.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_rawPCA.png",
+                    "file_size": 21995,
+                    "date_created": 1565758623887
+                },
+                {
+                    "file_name": "GLDS-6_array_rawBoxplot.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_rawBoxplot.png",
+                    "file_size": 15178,
+                    "date_created": 1565758623855
+                },
+                {
+                    "file_name": "GLDS-6_array_normPCA.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_normPCA.png",
+                    "file_size": 24168,
+                    "date_created": 1565758700472
+                },
+                {
+                    "file_name": "GLDS-6_array_normalized-annotated.txt",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_normalized-annotated.txt",
+                    "file_size": 1624360,
+                    "date_created": 1565758677093
+                },
+                {
+                    "file_name": "GLDS-6_array_normalized.txt",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_normalized.txt",
+                    "file_size": 3497464,
+                    "date_created": 1565758677133
+                },
+                {
+                    "file_name": "GLDS-6_array_Rnor_SDR_keratinocytes_CTRL_Rep1_GSM144733_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_Rnor_SDR_keratinocytes_CTRL_Rep1_GSM144733_raw.CEL.gz",
+                    "file_size": 2511171,
+                    "date_created": 1565758606945
+                },
+                {
+                    "file_name": "GLDS-6_array_differential_expression.csv",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_differential_expression.csv",
+                    "file_size": 7330850,
+                    "date_created": 1565758777072
+                },
+                {
+                    "file_name": "GLDS-6_array_Rnor_SDR_keratinocytes_IR_56Fe_Rep2_GSM144737_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_Rnor_SDR_keratinocytes_IR_56Fe_Rep2_GSM144737_raw.CEL.gz",
+                    "file_size": 2508574,
+                    "date_created": 1565758606975
+                },
+                {
+                    "file_name": "GLDS-6_array_Rnor_SDR_keratinocytes_CTRL_Rep2_GSM144734_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_Rnor_SDR_keratinocytes_CTRL_Rep2_GSM144734_raw.CEL.gz",
+                    "file_size": 2470725,
+                    "date_created": 1565758606975
+                },
+                {
+                    "file_name": "GLDS-6_array_Rnor_SDR_keratinocytes_IR_56Fe_Rep1_GSM144736_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_Rnor_SDR_keratinocytes_IR_56Fe_Rep1_GSM144736_raw.CEL.gz",
+                    "file_size": 2438860,
+                    "date_created": 1565758607054
+                },
+                {
+                    "file_name": "GLDS-6_array_Rnor_SDR_keratinocytes_IR_56Fe_Rep3_GSM144738_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_Rnor_SDR_keratinocytes_IR_56Fe_Rep3_GSM144738_raw.CEL.gz",
+                    "file_size": 2548444,
+                    "date_created": 1565758606994
+                },
+                {
+                    "file_name": "GLDS-6_array_md5sum.txt",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_md5sum.txt",
+                    "file_size": 627,
+                    "date_created": 1565758636101
+                },
+                {
+                    "file_name": "GLDS-6_array_Rnor_SDR_keratinocytes_CTRL_Rep3_GSM144735_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_Rnor_SDR_keratinocytes_CTRL_Rep3_GSM144735_raw.CEL.gz",
+                    "file_size": 2442682,
+                    "date_created": 1565758606928
+                },
+                {
+                    "file_name": "GLDS-6_array_visualization_output_table.csv",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/array/GLDS-6_array_visualization_output_table.csv",
+                    "file_size": 8807560,
+                    "date_created": 1565758777269
+                },
+                {
+                    "file_name": "GLDS-6_metadata_E-GEOD-6299-ISA.zip",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-6/metadata/GLDS-6_metadata_E-GEOD-6299-ISA.zip",
+                    "file_size": 5670,
+                    "date_created": 1586032009113
+                }
+            ],
+            "file_count": 28
+        }
+    },
+    "page_size": 25
+}

@@ -1,0 +1,361 @@
+{
+    "hits": 1,
+    "input": "7",
+    "page_number": 1,
+    "total_hits": 1,
+    "page_total": 1,
+    "success": true,
+    "valid_input": [
+        "7"
+    ],
+    "studies": {
+        "GLDS-7": {
+            "study_files": [
+                {
+                    "file_name": "GLDS-7_microarray_E-MTAB-1264.processed.1.zip",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/microarray/GLDS-7_microarray_E-MTAB-1264.processed.1.zip",
+                    "file_size": 5491049,
+                    "date_created": 1506008636221
+                },
+                {
+                    "file_name": "GLDS-7_microarray_E-MTAB-1264.raw.1.zip",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/microarray/GLDS-7_microarray_E-MTAB-1264.raw.1.zip",
+                    "file_size": 62533430,
+                    "date_created": 1506008636221
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Whole-Plant_FLT_Rep3_FLTAGES6_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Whole-Plant_FLT_Rep3_FLTAGES6_raw.CEL.gz",
+                    "file_size": 1637434,
+                    "date_created": 1562801560406
+                },
+                {
+                    "file_name": "GLDS-7_array_rawDensityDistributions.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_rawDensityDistributions.png",
+                    "file_size": 75429,
+                    "date_created": 1562801560613
+                },
+                {
+                    "file_name": "GLDS-7_array_annotReport.txt",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_annotReport.txt",
+                    "file_size": 207,
+                    "date_created": 1562801560624
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Shoot_FLT_Rep4_F4S2_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Shoot_FLT_Rep4_F4S2_raw.CEL.gz",
+                    "file_size": 1707371,
+                    "date_created": 1562801560627
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Hypocotyl_GC_Rep2_G4H1_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Hypocotyl_GC_Rep2_G4H1_raw.CEL.gz",
+                    "file_size": 1732455,
+                    "date_created": 1562801561144
+                },
+                {
+                    "file_name": "GLDS-7_array_contrasts.csv",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_contrasts.csv",
+                    "file_size": 4217,
+                    "date_created": 1562801561279
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Shoot_FLT_Rep2_F4S1_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Shoot_FLT_Rep2_F4S1_raw.CEL.gz",
+                    "file_size": 1756534,
+                    "date_created": 1562801561298
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Root_GC_Rep3_G6R1_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Root_GC_Rep3_G6R1_raw.CEL.gz",
+                    "file_size": 1714961,
+                    "date_created": 1562801561681
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Root_GC_Rep2_G4R1_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Root_GC_Rep2_G4R1_raw.CEL.gz",
+                    "file_size": 1741652,
+                    "date_created": 1562801561886
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Hypocotyl_FLT_Rep5_F6H2_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Hypocotyl_FLT_Rep5_F6H2_raw.CEL.gz",
+                    "file_size": 1713883,
+                    "date_created": 1562801561111
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Root_FLT_Rep2_F4R1_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Root_FLT_Rep2_F4R1_raw.CEL.gz",
+                    "file_size": 1731626,
+                    "date_created": 1562801560499
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Hypocotyl_GC_Rep3_G6H1_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Hypocotyl_GC_Rep3_G6H1_raw.CEL.gz",
+                    "file_size": 1805145,
+                    "date_created": 1562801560530
+                },
+                {
+                    "file_name": "GLDS-7_array_md5sum.txt",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_md5sum.txt",
+                    "file_size": 3492,
+                    "date_created": 1562801560605
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Root_GC_Rep1_G2R1_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Root_GC_Rep1_G2R1_raw.CEL.gz",
+                    "file_size": 1754532,
+                    "date_created": 1562801560609
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Hypocotyl_GC_Rep4_G4H2_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Hypocotyl_GC_Rep4_G4H2_raw.CEL.gz",
+                    "file_size": 1684175,
+                    "date_created": 1562801560617
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Whole-Plant_FLT_Rep1_FLTAGES2_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Whole-Plant_FLT_Rep1_FLTAGES2_raw.CEL.gz",
+                    "file_size": 1787797,
+                    "date_created": 1562801560638
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Whole-Plant_GC_Rep2_GCTAGES4_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Whole-Plant_GC_Rep2_GCTAGES4_raw.CEL.gz",
+                    "file_size": 1693445,
+                    "date_created": 1562801560638
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Root_FLT_Rep1_F2R1_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Root_FLT_Rep1_F2R1_raw.CEL.gz",
+                    "file_size": 1722599,
+                    "date_created": 1562801560646
+                },
+                {
+                    "file_name": "GLDS-7_array_normPlotMA.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_normPlotMA.png",
+                    "file_size": 329469,
+                    "date_created": 1562801560682
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Whole-Plant_FLT_Rep2_FLTAGES4_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Whole-Plant_FLT_Rep2_FLTAGES4_raw.CEL.gz",
+                    "file_size": 1647583,
+                    "date_created": 1562801561921
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Root_FLT_Rep5_F6R2_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Root_FLT_Rep5_F6R2_raw.CEL.gz",
+                    "file_size": 1767402,
+                    "date_created": 1562801561076
+                },
+                {
+                    "file_name": "GLDS-7_array_normDensityDistributions.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_normDensityDistributions.png",
+                    "file_size": 53867,
+                    "date_created": 1562801561903
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Hypocotyl_FLT_Rep1_F2H1_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Hypocotyl_FLT_Rep1_F2H1_raw.CEL.gz",
+                    "file_size": 1757391,
+                    "date_created": 1562801560277
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Hypocotyl_FLT_Rep3_F6H1_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Hypocotyl_FLT_Rep3_F6H1_raw.CEL.gz",
+                    "file_size": 1742969,
+                    "date_created": 1562801560441
+                },
+                {
+                    "file_name": "GLDS-7_array_normalized-annotated.txt",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_normalized-annotated.txt",
+                    "file_size": 12453485,
+                    "date_created": 1562801560797
+                },
+                {
+                    "file_name": "GLDS-7_array_arrayInfo.txt",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_arrayInfo.txt",
+                    "file_size": 23,
+                    "date_created": 1562801560867
+                },
+                {
+                    "file_name": "GLDS-7_array_rawPCA.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_rawPCA.png",
+                    "file_size": 62400,
+                    "date_created": 1562801560885
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Root_FLT_Rep3_F6R1_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Root_FLT_Rep3_F6R1_raw.CEL.gz",
+                    "file_size": 1743791,
+                    "date_created": 1562801560941
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Root_FLT_Rep4_F4R2_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Root_FLT_Rep4_F4R2_raw.CEL.gz",
+                    "file_size": 1711603,
+                    "date_created": 1562801560968
+                },
+                {
+                    "file_name": "GLDS-7_array_normPCA.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_normPCA.png",
+                    "file_size": 57942,
+                    "date_created": 1562801560970
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Hypocotyl_FLT_Rep2_F4H1_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Hypocotyl_FLT_Rep2_F4H1_raw.CEL.gz",
+                    "file_size": 1708221,
+                    "date_created": 1562801560970
+                },
+                {
+                    "file_name": "GLDS-7_array_rawBoxplot.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_rawBoxplot.png",
+                    "file_size": 29806,
+                    "date_created": 1562801560988
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Shoot_GC_Rep5_G6S2_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Shoot_GC_Rep5_G6S2_raw.CEL.gz",
+                    "file_size": 1739462,
+                    "date_created": 1562801561006
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Shoot_FLT_Rep3_F6S1_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Shoot_FLT_Rep3_F6S1_raw.CEL.gz",
+                    "file_size": 1752270,
+                    "date_created": 1562801561048
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Hypocotyl_FLT_Rep4_F4H2_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Hypocotyl_FLT_Rep4_F4H2_raw.CEL.gz",
+                    "file_size": 1753957,
+                    "date_created": 1562801561053
+                },
+                {
+                    "file_name": "GLDS-7_array_visualization_PCA_table.csv",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_visualization_PCA_table.csv",
+                    "file_size": 24690,
+                    "date_created": 1595617316976
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Whole-Plant_GC_Rep3_GCTAGES6_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Whole-Plant_GC_Rep3_GCTAGES6_raw.CEL.gz",
+                    "file_size": 1758081,
+                    "date_created": 1562801560617
+                },
+                {
+                    "file_name": "GLDS-7_array_normalized-annotated.rda",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_normalized-annotated.rda",
+                    "file_size": 5378123,
+                    "date_created": 1562801560698
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Shoot_FLT_Rep1_F2S1_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Shoot_FLT_Rep1_F2S1_raw.CEL.gz",
+                    "file_size": 1799832,
+                    "date_created": 1562801560715
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Shoot_FLT_Rep5_F6S2_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Shoot_FLT_Rep5_F6S2_raw.CEL.gz",
+                    "file_size": 1771838,
+                    "date_created": 1562801561913
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Shoot_GC_Rep2_G4S1_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Shoot_GC_Rep2_G4S1_raw.CEL.gz",
+                    "file_size": 1740802,
+                    "date_created": 1562801561927
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Shoot_GC_Rep1_G2S1_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Shoot_GC_Rep1_G2S1_raw.CEL.gz",
+                    "file_size": 1671712,
+                    "date_created": 1562801561963
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Whole-Plant_GC_Rep1_GCTAGES2_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Whole-Plant_GC_Rep1_GCTAGES2_raw.CEL.gz",
+                    "file_size": 1764686,
+                    "date_created": 1562801561982
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Shoot_GC_Rep4_G4S2_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Shoot_GC_Rep4_G4S2_raw.CEL.gz",
+                    "file_size": 1733035,
+                    "date_created": 1562801561994
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Hypocotyl_GC_Rep1_G2H1_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Hypocotyl_GC_Rep1_G2H1_raw.CEL.gz",
+                    "file_size": 1754050,
+                    "date_created": 1562801562013
+                },
+                {
+                    "file_name": "GLDS-7_array_images.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_images.png",
+                    "file_size": 359582,
+                    "date_created": 1562801562014
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Hypocotyl_GC_Rep5_G6H2_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Hypocotyl_GC_Rep5_G6H2_raw.CEL.gz",
+                    "file_size": 1759216,
+                    "date_created": 1562801562029
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Root_GC_Rep5_G6R2_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Root_GC_Rep5_G6R2_raw.CEL.gz",
+                    "file_size": 1727771,
+                    "date_created": 1562801562053
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Root_GC_Rep4_G4R2_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Root_GC_Rep4_G4R2_raw.CEL.gz",
+                    "file_size": 1774224,
+                    "date_created": 1562801562127
+                },
+                {
+                    "file_name": "GLDS-7_array_normBoxplot.png",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_normBoxplot.png",
+                    "file_size": 29023,
+                    "date_created": 1562801562133
+                },
+                {
+                    "file_name": "GLDS-7_array_normalized.txt",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_normalized.txt",
+                    "file_size": 14100805,
+                    "date_created": 1562801562147
+                },
+                {
+                    "file_name": "GLDS-7_array_Atha_WS-0_Col-0_Shoot_GC_Rep3_G6S1_raw.CEL.gz",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_Atha_WS-0_Col-0_Shoot_GC_Rep3_G6S1_raw.CEL.gz",
+                    "file_size": 1719591,
+                    "date_created": 1562801562281
+                },
+                {
+                    "file_name": "GLDS-7_array_differential_expression.csv",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_differential_expression.csv",
+                    "file_size": 86592712,
+                    "date_created": 1562801563093
+                },
+                {
+                    "file_name": "GLDS-7_array_visualization_output_table.csv",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/array/GLDS-7_array_visualization_output_table.csv",
+                    "file_size": 143042165,
+                    "date_created": 1595617316976
+                },
+                {
+                    "file_name": "GLDS-7_metadata_E-MTAB-1264-ISA.zip",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-7/metadata/GLDS-7_metadata_E-MTAB-1264-ISA.zip",
+                    "file_size": 10078,
+                    "date_created": 1586032031917
+                }
+            ],
+            "file_count": 57
+        }
+    },
+    "page_size": 25
+}

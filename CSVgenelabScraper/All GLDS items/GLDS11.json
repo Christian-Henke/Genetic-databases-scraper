@@ -1,0 +1,43 @@
+{
+    "hits": 1,
+    "input": "11",
+    "page_number": 1,
+    "total_hits": 1,
+    "page_total": 1,
+    "success": true,
+    "valid_input": [
+        "11"
+    ],
+    "studies": {
+        "GLDS-11": {
+            "study_files": [
+                {
+                    "file_name": "GLDS-11_metadata_A-GEOD-4805.adf.txt",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-11/metadata/GLDS-11_metadata_A-GEOD-4805.adf.txt",
+                    "file_size": 4224966,
+                    "date_created": 1506008634850
+                },
+                {
+                    "file_name": "GLDS-11_metadata_E-GEOD-8573-ISA.zip",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-11/metadata/GLDS-11_metadata_E-GEOD-8573-ISA.zip",
+                    "file_size": 6732,
+                    "date_created": 1516387781841
+                },
+                {
+                    "file_name": "GLDS-11_microarray_E-GEOD-8573.processed.1.zip",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-11/microarray/GLDS-11_microarray_E-GEOD-8573.processed.1.zip",
+                    "file_size": 23887713,
+                    "date_created": 1506008634850
+                },
+                {
+                    "file_name": "GLDS-11_metadata_A-GEOD-6868.adf.txt",
+                    "remote_url": "/datamanager/file/Home/genelab-data/GLDS-11/metadata/GLDS-11_metadata_A-GEOD-6868.adf.txt",
+                    "file_size": 12683512,
+                    "date_created": 1506008634850
+                }
+            ],
+            "file_count": 4
+        }
+    },
+    "page_size": 25
+}
